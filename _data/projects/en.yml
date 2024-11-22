@@ -1,5 +1,5 @@
-- title: "Terrasses Roy: creating a new public space"
-  description: "A pedestrianization in the heart of the Plateau-Mont-Royal"
+- title: "Terrasses Roy"
+  description: "Pedestrianization project in Plateau-Mont-Royal"
   location: "Plateau-Mont-Royal, Montreal, QC"
   date: "Summer and Fall 2017"
   start-date: "2017"
@@ -42,8 +42,8 @@
   next_url: 'project2'
 
 
-- title: "Noise policy guidelines: Valeurs Guides"
-  description: "A project on environmental noise management in Quebec and internationally"
+- title: "Noise policy"
+  description: "Environmental noise management in Quebec and internationally"
   location: ""
   date: "2018 - 2023"
   start-date: "2018"
@@ -101,8 +101,8 @@
   prev_url: "project1"
   next_url: 'project3'
 
-- title: "The (water) misters of Fleurs de Macadam"
-  description: "Outcomes from adding water features in a pocket park"
+- title: "Water misters"
+  description: "Water features in a pocket park"
   location: ""
   date: "Summer 2018"
   start-date: "2018"
@@ -141,8 +141,8 @@
   next_url: 'project4'
 
 
-- title: "Co-designing soundscapes of public spaces "
-  description: "Conducting workshops to help determine the technology needs of professionals  "
+- title: "Soundscape co-designing"
+  description: "Workshops on technology needs of professionals  "
   location: ""
   date: "Summer 2019"
   start-date: "2019"
@@ -151,7 +151,7 @@
   url: "project4"
   fundings: "SSHRC-PDG grant"
   collaborators: "Société des arts technologiques, ARUP"
-  name: "Co-designing soundscapes of public spaces"
+  name: "Soundscape co-designing"
   tags:
     - name: 'simulation'
       id: 'simulation'
@@ -235,8 +235,8 @@
   next_url: 'project6'
 
 
-- title: "What should a restaurant sound like?"
-  description: "Improving the soundscape of restaurants"
+- title: "Sound in restaurant"
+  description: "Improving restaurants soundscape"
   location: ""
   date: "Summer 2015; Fall 2020 - Winter 2021"
   start-date: "2015"
@@ -285,7 +285,7 @@
   prev_url: "project5"
   next_url: "project7"
 
-- title: 'Prototyping a codesign sound sketchpad'
+- title: 'Sound sketchpad'
   description: "Developing technologies with and for professionals of the built environment"
   location: ""
   date: 'Spring 2019 – Summer 2019'
@@ -461,8 +461,8 @@
   prev_url: "project8"
   next_url: 'project10'
 
-- title: "Sonic inquiry in Urban Research"
-  description: "Advancing policy analysis and design through sound planning tools"
+- title: "SonInUrb"
+  description: "Sonic inquiry in Urban Research"
   location: ""
   date: "2021 - 2022"
   start-date: "2021"
@@ -510,8 +510,8 @@
   prev_url: "project9"
   next_url: 'project11'
 
-- title: "Recreation vs. Residence: Sonic Cohabitation in downtown Montreal (ListenUpMTL / ÉcoutezMTL) "
-  description: "Researching sonic cohabitation on pedestrianized streets during COVID-19"
+- title: "ListenUp MTL "
+  description: "Recreation vs. Residence: Sonic Cohabitation in downtown Montreal"
   location: ""
   date: "Spring 2021 – Spring 2022"
   start-date: "2021"
@@ -563,8 +563,8 @@
   prev_url: "project10"
   next_url: 'project12'
 
-- title: "Industry vs. Residence: Sonic Cohabitation in Assumption Sud-Longue Pointe"
-  description: "Investigating sonic cohabitation around the port of Montreal"
+- title: "Living near industries"
+  description: "Industry vs. Residence: Sonic Cohabitation in Assumption Sud-Longue Pointe"
   location: ""
   date: "Spring 2022 – Spring 2023; Spring 2024 – Spring 2025"
   start-date: "2022"
@@ -617,7 +617,7 @@
   next_url: 'project13'
 
 
-- title: "What’s next for nightlife and night noise in Montreal?"
+- title: "Nighltife and noise"
   description: "Integrating sound considerations into the Montreal nightlife policy"
   location: ""
   date: "Spring 2021 – Spring 2023"
@@ -674,7 +674,7 @@
   prev_url: "project12"
   next_url: 'project14'
 
-- title: "The sounds of Quartier des Spectacles"
+- title: "Quartier des Spectacles"
   description: "Understanding Montreal festival soundscapes"
   location: "Montreal, QC"
   date: "Winter 2020 – Winter 2021"
@@ -728,7 +728,7 @@
   next_url: 'project15'
 
 
-- title: "Sound art in public spaces: Niches Acoustiques"
+- title: "Niches Acoustiques"
   description: "Informing sound art design in a Parisian public space through soundscape simulations"
   location: "Paris, France"
   date: "2021-ongoing"
@@ -777,8 +777,8 @@
   next_url: 'project16'
 
 
-- title: "Sound art in public spaces: Les Madelinéennes"
-  description: "Sound and cultural heritage in public space: evaluation of a sound installation with the local community"
+- title: "Les Madelinéennes"
+  description: "Sound cultural heritage: evaluation of a sound installation with the local community"
   location: "Montreal, QC"
   date: "2023-ongoing"
   start-date: "2023"
@@ -826,8 +826,8 @@
   next_url: 'project17'
 
 
-- title: "Churches as places of restoration"
-  description: "An exploration of the sensory qualities of church buildings outside the context of worship"
+- title: "Sound in churches"
+  description: "Explorating the sensory qualities of church buildings outside the context of worship"
   location: "Montréal, QC"
   date: "Fall 2020-Fall 2022"
   start-date: "2020"
@@ -881,7 +881,7 @@
   next_url: 'project18'
 
 
-- title: "Sharing music in public spaces: Musikiosk"
+- title: "Musikiosk"
   description: "Bringing music to the public space through an interactive sound system"
   location: "Parc du Portugal, Montreal, QC"
   date: "2014-Summer 2015"
@@ -934,8 +934,8 @@
   next_url: 'project19'
 
 
-- title: "Sound art in public spaces: Fleurs-de-Macadam"
-  description: "Taking a participatory research creation approach to improve the soundscape of an urban public space"
+- title: "Fleurs-de-Macadam"
+  description: "A participatory research creation approach to improve the soundscape of an urban public space"
   location: "Plateau-Mont-Royal, Montreal, QC"
   date: "Summer 2018 - 2019"
   start-date: "2018"
@@ -988,8 +988,8 @@
   next_url: 'project20'
 
 
-- title: "Using soundwalks to engage practitioners and the broader public on sound"
-  description: "Using immersive soundwalks to encourage sound awareness and empathy among practitioners and the broader public"
+- title: "Soundwalks"
+  description: "Using soundwalks to engage practitioners and the broader public on sound"
   location: "Boston, Montreal, Amsterdam"
   date: "2013 - ongoing"
   start-date: "2013"
@@ -1045,7 +1045,7 @@
 
 
 
-- title: "Engaging professionals of the built environment and the broader public on and with sound"
+- title: "Raising awareness"
   description: "Strategies to mobilize sound-related knowledge in practice and public discourse"
   location: ""
   date: "2013 - ongoing"
@@ -1141,8 +1141,8 @@
   next_url: 'project23'
 
 
-- title: "City Ditty: A Virtual Reality Soundscape Simulator"
-  description: "A project to create accessible sound planning tools that consider the wider auditory experience of city users."
+- title: "City Ditty"
+  description: "A Virtual Reality Soundscape Simulator"
   location: ""
   date: "2018 - ongoing"
   start-date: "2018"
@@ -1214,8 +1214,8 @@
   next_url: 'project24'
 
 
-- title: "Soundscape illustrated: Fantastique Acoustique"
-  description: "Contextualizing urban sound issues for the general public through comics."
+- title: "Fantastique Acoustique"
+  description: "Soundscape illustrated"
   location: "Montreal"
   date: "Fall 2023 - Spring 2024"
   start-date: "2023"
@@ -1277,7 +1277,7 @@
   next_url: "project25"
 
 
-- title: "From your home to your local green space; What you hear in-between?"
+- title: "Sound in and around green spaces"
   description: "Soundscape of Green Spaces Walking Access, A Participatory Mapping Approach"
   date: "2023 - Ongoing"
   start-date: "2023"
@@ -1329,8 +1329,8 @@
   next_url: "project26"
 
 
-- title: "Street Performances and the Quality of Urban Public Space"
-  description: "A project to use City Ditty to explore the effects of street performances on Quality of Urban Public Space"
+- title: "Street Performances"
+  description: "Explore the effects of street performances on the Quality of Urban Public Space"
   date: "Fall 2023-ongoing"
   start-date: "2023"
   end-date: "2024"
