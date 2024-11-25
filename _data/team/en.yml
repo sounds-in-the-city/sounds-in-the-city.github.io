@@ -3,7 +3,7 @@ staff:
   members:
     - name: "Catherine Guastavino"
       role: "Principal Investigator"
-      image: "/assets/images/team/Rectangular/Catherine_Guastavino-RC3.jpg"
+      image: "/assets/images/team/Rectangular/Catherine_Guastavino_headshot_rect.jpg"
       info: "Catherine Guastavino is a Professor at McGill University and a member of the Centre for Interdisciplinary Research in Music Media and Technology (CIRMMT). She happily leads the Sounds in the City partnership and enjoys working with diverse academics, professionals, artists, and citizens to rethink the role of sound in cities. She also co-direct the thematic network AIRS (Air, Intersectiorialité, recherche Respiratoire et Sonore). She has published extensively on urban soundscapes, sensory experience, auditory perception, and music psychology. She also has extensive experience collaborating with industry partners, cultural institutions, as well as with municipal and provincial governments. "
     - name: "Josée Laplace"
       role: "Researcher"
@@ -43,11 +43,11 @@ staff:
       info: "Valérian Fraisse is a soundscape researcher working at the intersection of art and science. He collaborates with sound artists both in Paris and Montréal to study the impact of sound installations in urban public spaces. He is currently working on a methodology to help sound artists in their composition process. The methodology includes acoustic measurements, laboratory and in situ soundscape evaluations to assist creation based on space users’ feedback. As part of this work, he developed a soundscape simulation tool that allows for the evaluation of sound installation prototypes prior to their deployment on site."
     - name: "Chang Miao"
       role: "Researcher"
-      image: "/assets/images/team/Rectangular/Chang.jpg"
+      image: "/assets/images/team/Rectangular/Chang_Miao.jpg"
       info: "Chang Miao is a soundscape researcher focused on human perception and behavior within urban public spaces. Her research investigates the effect of music performances on the quality of urban public space experiences, incorporating perspectives of urban public space design. The innovative use of the \"City Ditty\" soundscape simulator in her methodology enables precise analysis of the auditory influences on public life, highlighting the impact of sound design in urban planning and architecture."
     - name: "Negar Imani"
       role: "Researcher"
-      image: "/assets/images/team/Rectangular/Negar.jpg"
+      image: "/assets/images/team/Rectangular/Negar_Imani.jpg"
       info: "Negar Imani has a background in Urban Planning and Design. In her PhD, she works at the intersection of Urban Soundscapes, Participatory GIS, and Walkable Access to Urban Green Spaces. She aims to study walkable access to local green spaces and its impact on residents’ everyday soundscapes. During her Masters, she worked on the effect of sounds in promoting the Sense of Place in an Urban Green Space. She has also had experience in urban planning and design projects on different levels, from neighbourhood to city scale."
 alumni:
   title: "ALUMNI"
@@ -55,7 +55,7 @@ alumni:
     - name: "Ulysse Lefeuvre"
       role: "Soundscape Researcher"
       image: "/assets/images/team/Rectangular/Ulysse.jpg"
-      info: "Ulysse Lefeuvre is a student at Sorbonne University in Paris and at IRCAM. He is doing an internship at McGill University with Professor Catherine Guastavino on auditory motion perception."
+      info: "Ulysse Lefeuvre is a student at Sorbonne University in Paris and at IRCAM. He did an internship at McGill University with Professor Catherine Guastavino on auditory motion perception."
 collaborators:
   title: "COLLABORATORS"
   members:
