@@ -53,9 +53,21 @@ alumni:
   title: "ANCIENS MEMBRES"
   members:
     - name: "Ulysse Lefeuvre"
-      role: "Chercheur en paysages sonores"
+      role: "Chercheur"
       image: "/assets/images/team/Rectangular/Ulysse.jpg"
       info: "Ulysse Lefeuvre est étudiant à l'Université Sorbonne à Paris et à l'IRCAM. Il effectue un stage à l'Université McGill avec la professeure Catherine Guastavino sur la perception du mouvement auditif."
+- name: "Mélanie Vachon"
+      role: "Chercheuse"
+      image: "/assets/images/team/Rectangular/MelanieVachon.jpeg"
+      info: ""
+ - name: "Gregoire Blanc"
+      role: "Chercheur"
+      image: "/assets/images/team/Rectangular/Greg.JPG"
+      info: ""
+ - name: "Mariana Mejia Ahrens"
+      role: "Chercheuse"
+      image: "/assets/images/team/Rectangular/Mariana.jpg"
+      info: ""
 collaborators:
   title: "COLLABORATEURS"
   members:
