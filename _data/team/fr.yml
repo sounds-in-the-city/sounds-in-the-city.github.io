@@ -68,6 +68,10 @@ alumni:
       role: "Chercheuse"
       image: "/assets/images/team/Rectangular/Mariana.jpg"
       info: ""
+  - name: "Sarah Bogdanovitch"
+      role: "Assistante de recherche"
+      image: "/assets/images/team/Rectangular/Sarah.jpg"
+      info: ""    
 collaborators:
   title: "COLLABORATEURS"
   members:
