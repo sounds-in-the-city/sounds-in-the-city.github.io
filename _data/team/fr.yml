@@ -3,7 +3,7 @@ staff:
   members:
     - name: "Catherine Guastavino"
       role: "Chercheuse principale"
-      image: "/assets/images/team/Rectangular/Catherine_Guastavino-RC3.jpg"
+      image: "/assets/images/team/Rectangular/Catherine_Guastavino_headshot_rect.jpg"
       info: "Catherine Guastavino est professeure à l'Université McGill et membre du Centre de recherche interdisciplinaire en musique, médias et technologie (CIRMMT). Elle dirige avec enthousiasme le partenariat Sounds in the City et apprécie de travailler avec des universitaires, des professionnels, des artistes et des citoyens divers pour repenser le rôle du son dans les villes. Elle co-dirige également le réseau thématique AIRS (Air, Intersectorialité, recherche Respiratoire et Sonore). Elle a publié abondamment sur les paysages sonores urbains, l'expérience sensorielle, la perception auditive et la psychologie de la musique. Elle a également une vaste expérience de collaboration avec des partenaires industriels, des institutions culturelles ainsi qu'avec des gouvernements municipaux et provinciaux."
     - name: "Josée Laplace"
       role: "Chercheuse"
@@ -43,11 +43,11 @@ staff:
       info: "Valérian Fraisse est un chercheur en paysages sonores travaillant à l'intersection de l'art et de la science. Il collabore avec des artistes sonores à Paris et à Montréal pour étudier l'impact des installations sonores dans les espaces publics urbains. Il travaille actuellement sur une méthodologie visant à aider les artistes sonores dans leur processus de composition. La méthodologie comprend des mesures acoustiques, des évaluations de paysages sonores en laboratoire et in situ pour aider à la création basée sur les retours des utilisateurs de l'espace. Dans le cadre de ce travail, il a développé un outil de simulation de paysages sonores permettant d'évaluer les prototypes d'installations sonores avant leur déploiement sur site."
     - name: "Chang Miao"
       role: "Chercheuse"
-      image: "/assets/images/team/Rectangular/Chang.jpg"
+      image: "/assets/images/team/Rectangular/Chang_Miao.jpg"
       info: "Chang Miao est chercheuse en paysages sonores, axée sur la perception humaine et le comportement dans les espaces publics urbains. Ses recherches examinent l'effet des performances musicales sur la qualité des expériences dans les espaces publics urbains, en incorporant des perspectives de conception des espaces publics urbains. L'utilisation innovante du simulateur de paysages sonores « City Ditty » dans sa méthodologie permet une analyse précise des influences auditives sur la vie publique, mettant en lumière l'impact de la conception sonore dans la planification et l'architecture urbaines."
     - name: "Negar Imani"
       role: "Chercheuse"
-      image: "/assets/images/team/Rectangular/Negar.jpg"
+      image: "/assets/images/team/Rectangular/Negar_Imani.jpg"
       info: "Negar Imani a une formation en urbanisme et en conception urbaine. Dans son doctorat, elle travaille à l'intersection des paysages sonores urbains, des SIG participatifs et de l'accès piétonnier aux espaces verts urbains. Elle vise à étudier l'accès piétonnier aux espaces verts locaux et son impact sur les paysages sonores quotidiens des résidents. Pendant sa maîtrise, elle a travaillé sur l'effet des sons dans la promotion du sentiment de lieu dans un espace vert urbain. Elle a également de l'expérience dans des projets de planification et de conception urbaines à différents niveaux, de l'échelle de quartier à l'échelle de la ville."
 alumni:
   title: "ANCIENS MEMBRES"
