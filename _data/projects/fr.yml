@@ -1,4 +1,4 @@
-- title: "Terrasses Roy"
+f- title: "Terrasses Roy"
   description: "Piétonnisation au cœur du Plateau-Mont-Royal"
   location: "Plateau-Mont-Royal, Montréal, QC"
   date: "2017"
@@ -999,7 +999,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
 - title: "Balades sonores"
   description: "Sensibiliser les professionnelles et le grand public aux questions sonores"
   location: "Boston, Montréal, Amsterdam"
-  date: "2013 – En cours"
+  date: "2013 – en cours"
   start-date: '2013'
   end-date: '3000'
   image: "/assets/images/projects/Soundwalks/DSC_0142.jpg"
