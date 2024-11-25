@@ -1,7 +1,7 @@
 - title: "Terrasses Roy"
   description: "Pedestrianization project in Plateau-Mont-Royal"
   location: "Plateau-Mont-Royal, Montreal, QC"
-  date: "Summer and Fall 2017"
+  date: "2017"
   start-date: "2017"
   end-date: "2017"
   image: "/assets/images/projects/Roy/Roy2.jpg"
@@ -104,7 +104,7 @@
 - title: "Water misters"
   description: "Water features in a pocket park"
   location: ""
-  date: "Summer 2018"
+  date: "2018"
   start-date: "2018"
   end-date: "2018"
   image: "/assets/images/projects/Fleurs_de_Macadam_misters/DSC_0319.jpeg"
@@ -144,7 +144,7 @@
 - title: "Soundscape co-designing"
   description: "Workshops on technology needs of professionals  "
   location: ""
-  date: "Summer 2019"
+  date: "2019"
   start-date: "2019"
   end-date: "2019"
   image: ""
@@ -238,7 +238,7 @@
 - title: "Sound in restaurant"
   description: "Improving restaurants soundscape"
   location: ""
-  date: "Summer 2015; Fall 2020 - Winter 2021"
+  date: "S2015; 2020 - 2021"
   start-date: "2015"
   end-date: "2021"
   image: '/assets/images/projects/restaurant/restaurant-ithq-sherbrooke-montreal-13.jpg'
@@ -288,7 +288,7 @@
 - title: 'Sound sketchpad'
   description: "Developing technologies with and for professionals of the built environment"
   location: ""
-  date: 'Spring 2019 – Summer 2019'
+  date: '2019'
   start-date: "2019"
   end-date: "2019"
   image: '/assets/images/projects/Codesign_sketch_pad/DSC_1272.jpeg'
@@ -513,7 +513,7 @@
 - title: "ListenUp MTL "
   description: "Recreation vs. Residence: Sonic Cohabitation in downtown Montreal"
   location: ""
-  date: "Spring 2021 – Spring 2022"
+  date: "2021 – 2022"
   start-date: "2021"
   end-date: "2022"
   image: "/assets/images/projects/recreation_v_residence/IMG_1848_QdS_CreditsFXFeron.JPG"
@@ -566,7 +566,7 @@
 - title: "Living near industries"
   description: "Industry vs. Residence: Sonic Cohabitation in Assumption Sud-Longue Pointe"
   location: ""
-  date: "Spring 2022 – Spring 2023; Spring 2024 – Spring 2025"
+  date: "2022 – 2023; 2024 – 2025"
   start-date: "2022"
   end-date: "2025"
   image: "/assets/images/projects/industry_v_residence/Port-port.jpeg"
@@ -617,10 +617,10 @@
   next_url: 'project13'
 
 
-- title: "Nighltife and noise"
+- title: "Nightlife and noise"
   description: "Integrating sound considerations into the Montreal nightlife policy"
   location: ""
-  date: "Spring 2021 – Spring 2023"
+  date: "2021 – 2023"
   start-date: "2021"
   end-date: "2023"
   image: "/assets/images/projects/nightlife/before.jpg"
@@ -677,7 +677,7 @@
 - title: "Quartier des Spectacles"
   description: "Understanding Montreal festival soundscapes"
   location: "Montreal, QC"
-  date: "Winter 2020 – Winter 2021"
+  date: "2020 – 2021"
   start-date: "2020"
   end-date: "2021"
   image: "/assets/images/projects/nightlife/QDS.jpg"
@@ -731,7 +731,7 @@
 - title: "Niches Acoustiques"
   description: "Informing sound art design in a Parisian public space through soundscape simulations"
   location: "Paris, France"
-  date: "2021-ongoing"
+  date: "2021 - ongoing"
   start-date: "2021"
   end-date: "2025"
   image: "/assets/images/projects/Niches_acoustiques/XP1_panorama.jpg"
@@ -779,8 +779,8 @@
 
 - title: "Les Madelinéennes"
   description: "Sound cultural heritage: evaluation of a sound installation with the local community"
-  location: "Montreal, QC"
-  date: "2023-ongoing"
+  location: "Montreal"
+  date: "2023 - ongoing"
   start-date: "2023"
   end-date: "2025"
   image: "/assets/images/projects/les_madelinennes/230711_Parc-Madelinots_006.jpg"
@@ -828,8 +828,8 @@
 
 - title: "Sound in churches"
   description: "Explorating the sensory qualities of church buildings outside the context of worship"
-  location: "Montréal, QC"
-  date: "Fall 2020-Fall 2022"
+  location: "Montréal"
+  date: "2020 - 2022"
   start-date: "2020"
   end-date: "2022"
   image: "/assets/images/projects/Church_Restoration/ChurchRestor_MAIN_SPA_IMG_1920.JPG"
@@ -884,14 +884,14 @@
 - title: "Musikiosk"
   description: "Bringing music to the public space through an interactive sound system"
   location: "Parc du Portugal, Montreal, QC"
-  date: "2014-Summer 2015"
+  date: "2014 - 2015"
   start-date: "2014"
   end-date: "2015"
   image: "/assets/images/projects/Musikiosk/MusikioskAd.png"
   url: "project18"
   fundings: "McGill Dean of Arts Development Fund"
   collaborators: "Romain Dumoulin, Jeremie Voix"
-  name: "MUSIKIOSK"
+  name: "Musikiosk"
   tags:
     - name: 'public space'
       id: 'public_space'
@@ -937,7 +937,7 @@
 - title: "Fleurs-de-Macadam"
   description: "A participatory research creation approach to improve the soundscape of an urban public space"
   location: "Plateau-Mont-Royal, Montreal, QC"
-  date: "Summer 2018 - 2019"
+  date: "2018 - 2019"
   start-date: "2018"
   end-date: "2019"
   image: "/assets/images/projects/Fleurs_de_Macadam_sound_art/speaker_ZOOM.jpg"
@@ -977,7 +977,7 @@
       name: 'Journal Métro - Les échos de nos églises'
   publications:
     - url: 'https://www.sciencedirect.com/science/article/pii/S0169204624001725?via%3Dihub'
-    - name: 'Fraisse, V., Tarlao, C., & Guastavino, C. (In press). Shaping City Soundscapes: In-Situ Evaluation of Four Sound Installations in an Urban Public Space. <i>Landscape and Urban Planning</i>.'
+    - name: 'Fraisse, V., Tarlao, C., & Guastavino, C. (2024). Shaping City Soundscapes: In-Situ Evaluation of Four Sound Installations in an Urban Public Space. <i>Landscape and Urban Planning</i>.'
     - url: 'https://www.taylorfrancis.com/chapters/edit/10.4324/9781003140535-5/designing-sound-installations-public-spaces-catherine-guastavino-val%C3%A9rian-fraisse-simone-ambrosio-etienne-legast-maryse-lavoie'
       name: 'Guastavino, C., Fraisse, V., D’Ambrosio, S, Legast, E, & Lavoie, M. (2022). Designing sound installations in public spaces: A collaborative research creation approach. In Filimowicz, M. (Ed)., <i>Designing Interaction for Music and Sound</i>. Routledge, Abingdon, UK.'
     - url: 'https://www.researchgate.net/publication/333058798_Sounds_in_the_City_Improving_the_soundscape_of_a_public_square_through_sound_art'
@@ -1102,7 +1102,7 @@
 - title: "Sonic injustice"
   description: "Long-term noise exposure differs between socioeconomic groups"
   location: ""
-  date: "2020 - Ongoing"
+  date: "2020 - ongoing"
   start-date: "2020"
   end-date: "2024"
   image: "/assets/images/projects/sonic_injustice/Railyards.jpg"
@@ -1217,7 +1217,7 @@
 - title: "Fantastique Acoustique"
   description: "Soundscape illustrated"
   location: "Montreal"
-  date: "Fall 2023 - Spring 2024"
+  date: "2023 - 2024"
   start-date: "2023"
   end-date: "2024"
   image: "/assets/images/projects/illustrating_soundscape/IMG_1367.jpeg"
@@ -1279,7 +1279,7 @@
 
 - title: "Sound in and around green spaces"
   description: "Soundscape of Green Spaces Walking Access, A Participatory Mapping Approach"
-  date: "2023 - Ongoing"
+  date: "2023 - ongoing"
   start-date: "2023"
   end-date: "2027"
   image: "/assets/images/projects/GreenSpaceWalkingAccess/GreenSpaceNoiseNeighbourhood.jpeg"
@@ -1330,8 +1330,8 @@
 
 
 - title: "Street Performances"
-  description: "Explore the effects of street performances on the Quality of Urban Public Space"
-  date: "Fall 2023-ongoing"
+  description: "Exploring the effects of street performances on the Quality of Urban Public Space"
+  date: "2023 - ongoing"
   start-date: "2023"
   end-date: "2024"
   image: "/assets/images/projects/Street_Performances/Musician_in_the_park.png"
