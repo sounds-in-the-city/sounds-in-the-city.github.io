@@ -46,8 +46,8 @@
 
 
 - title: "Politique sur le bruit"
-  description: "Gestion du bruit environnemental au Québec et à l'international"
-  location: "Plateau-Mont-Royal, Montreal, QC"
+  description: "Recension des stratégies de gestion du bruit environnemental"
+  location: "Québec et à l'international"
   date: "2018 - 2023"
   start-date: "2018"
   end-date: "2023"
@@ -149,7 +149,7 @@
 
 - title: "Co-conception d'ambiances sonores"
   description: "Ateliers visant à déterminer les besoins des professionnel.le.s en matière de technologie"
-  location: ""
+  location: "Montréal"
   date: "Été 2019"
   start-date: '2019'
   end-date: '2019'
@@ -251,7 +251,7 @@
 
 - title: "Ambiance sonore au restaurant"
   description: "Améliorer l’environnement sonore des restaurants"
-  location: ""
+  location: "Montréal"
   date: "Été 2015 ; Automne 2020 – Hiver 2021"
   start-date: '2015'
   end-date: '2021'
@@ -295,8 +295,8 @@
 
 - title: "Interface de co-création sonore"
   description: "Développer des technologies de simulation sonore avec, et pour, les professionnel.le.s en urbanisme"
-  location: ""
-  date: "Printemps 2019 – Été 2019"
+  location: "Montréal"
+  date: "Printemps-été 2019"
   start-date: '2019'
   end-date: '2019'
   image: '/assets/images/projects/Codesign_sketch_pad/DSC_1272.jpeg'
@@ -345,7 +345,7 @@
 
 - title: "Les sons de la COVID-19"
   description: "Un aperçu du silence que nous pensions souhaiter"
-  location: ""
+  location: "Montréal"
   date: "2020 - 2023"
   start-date: '2020'
   end-date: '2023'
@@ -407,9 +407,9 @@
 - title: "Questions de contexte"
   description: "Une investigation des facteurs qui façonnent les expériences sonores en milieu urbain"
   location: ""
-  date: "2015 – 2021"
+  date: "2015 – en cours"
   start-date: '2015'
-  end-date: '2021'
+  end-date: ''
   image: "/assets/images/projects/context_matters/962-Mont-Royal-intervention.jpg"
   url: "project9"
   fundings: "CRSH"
@@ -460,7 +460,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
 
 - title: "La question sonore dans la recherche urbaine"
   description: "Faire progresser l'analyse et l’élaboration de politiques grâce à des outils de planification sonores"
-  location: "Montréal, Canada; Venise, Italie"
+  location: "Montréal; Venise, Italie"
   date: "2021 - 2022"
   start-date: '2021'
   end-date: '2022'
@@ -510,7 +510,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
 
 - title: "ÉcoutezMTL et ses activités récréatives"
   description: "Recherche sur la cohabitation sonore entre activités récréatives vs résidentielles"
-  location: "Montréal, Canada"
+  location: "Montréal"
   date: "Printemps 2021 – Printemps 2022"
   start-date: '2021'
   end-date: '2022'
@@ -562,7 +562,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
 
 - title: "Vivre près des industries et du port"
   description: "Cohabitation sonore dans Assomption Sud-Longue Pointe"
-  location: "Montréal, Canada"
+  location: "Montréal"
   date: "Printemps 2022 – Printemps 2023; Printemps 2024 – Printemps 2025"
   start-date: '2022'
   end-date: '2025'
@@ -619,7 +619,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
 
 - title: "Vie nocturne"
   description: "Prendre en compte le sonore dans la politique de la vie nocturne à Montréal"
-  location: ""
+  location: "Montréal"
   date: "Printemps 2021 – Printemps 2023"
   start-date: '2021'
   end-date: '2023'
@@ -679,7 +679,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
 
 - title: "Quartier des spectacles"
   description: "Comprendre les ambiances sonores des festivals montréalais"
-  location: "Montréal, QC"
+  location: "Montréal"
   date: "Hiver 2020 – Hiver 2021"
   start-date: '2020'
   end-date: '2021'
@@ -783,7 +783,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
 
 - title: "Les Madelinéennes"
   description: "Son et patrimoine culturel : évaluation d'une installation sonore avec la communauté locale à Verdun"
-  location: "Montreal, QC"
+  location: "Montréal"
   date: "2023- En cours"
   start-date: '2023'
   end-date: '2025'
@@ -834,7 +834,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
 
 - title: "Les églises comme zones calmes"
   description: "Explorer les qualités sensorielles des églises en dehors du contexte religieux"
-  location: "Montréal, QC"
+  location: "Montréal"
   date: "Automne 2021 – Automne 2022"
   start-date: '2021'
   end-date: '2022'
@@ -889,7 +889,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
 
 - title: "Musikiosk"
   description: "Un système interactif de partage de musique dans un parc"
-  location: "Parc du Portugal, Montreal, QC"
+  location: "Parc du Portugal, Montreal"
   date: "2014 - Été 2015"
   start-date: '2014'
   end-date: '2015'
@@ -943,7 +943,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
 
 - title: "Fleurs-de-Macadam"
   description: "Recherche-création pour améliorer l'ambiance d'une nouvelle place publique par l'art sonore"
-  location: "Plateau-Mont-Royal, Montreal, QC"
+  location: "Plateau-Mont-Royal, Montreal"
   date: "Été 2018 – 2019"
   start-date: '2018'
   end-date: '2019'
@@ -1242,7 +1242,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
 
 - title: "Fantastique Acoustique"
   description: "Illustrer les concepts d’ambiance sonore en bandes dessinées"
-  location: "Montréal"
+  location: ""
   date: "Automne 2023 - Printemps 2024"
   start-date: '2023'
   end-date: '2024'
@@ -1309,7 +1309,7 @@ Bonne lecture !"
 
 - title: "Autour des espaces verts"
   description: "Ambiance sonore des espaces verts accessibles à pied, une approche cartographique participative"
-  location: ""
+  location: "Montréal"
   image: "/assets/images/projects/GreenSpaceWalkingAccess/GreenSpaceNoiseNeighbourhood.jpeg"
   url: "project25"
   name: ""
