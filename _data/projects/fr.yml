@@ -1,5 +1,5 @@
-- title: "Terrasses Roy: Créer un nouvel espace public"
-  description: "Une piétonnisation au cœur du Plateau-Mont-Royal"
+- title: "Terrasses Roy"
+  description: "Piétonnisation au cœur du Plateau-Mont-Royal"
   location: "Plateau-Mont-Royal, Montréal, QC"
   date: "Été et Automne 2017"
   start-date: "2017"
@@ -45,8 +45,8 @@
 
 
 
-- title: "Lignes directrices sur la politique du bruit : Valeurs Guides"
-  description: "Un projet sur la gestion du bruit environnemental au Québec et à l'international"
+- title: "Politique sur le bruit"
+  description: "Gestion du bruit environnemental au Québec et à l'international"
   location: "Plateau-Mont-Royal, Montreal, QC"
   date: "2018 - 2023"
   start-date: "2018"
@@ -106,8 +106,8 @@
   next_url: 'project3'
 
 
-- title: "Les brumisateurs des Fleurs de Macadam"
-  description: "Résultats de l'ajout de structures d'eau dans une place publique"
+- title: "Brumisateurs des Fleurs de Macadam"
+  description: "Effet de l'ajout de brunisateurs dans une place publique"
   location: "Plateau-Mont-Royal, Montreal, QC"
   date: "Été 2018"
   start-date: '2018'
@@ -147,8 +147,8 @@
 
 
 
-- title: "Co-conception des ambiances sonores des espaces publics"
-  description: "Organiser des ateliers pour aider à déterminer les besoins des professionnelles en matière de technologies"
+- title: "Co-conception d'ambiances sonores"
+  description: "Ateliers visant à déterminer les besoins des professionnel.le.s en matière de technologie"
   location: ""
   date: "Été 2019"
   start-date: '2019'
@@ -197,8 +197,8 @@
   next_url: "project5"
 
 
-- title: "Traduire les échelles d'évaluation des ambiances sonores"
-  description: "Projets locaux et mondiaux visant à améliorer la façon dont nous évaluons les ambiances sonores dans différentes langues"
+- title: "Question de traductions du sonore"
+  description: "Commment évaluer les ambiances sonores dans différentes langues"
   location: ""
   date: "2015 – 2023"
   start-date: '2015'
@@ -249,7 +249,7 @@
   next_url: "project6"
 
 
-- title: "À quoi doit ressembler l’ambiance sonore d’un restaurant ?"
+- title: "Ambiance sonore au restaurant"
   description: "Améliorer l’environnement sonore des restaurants"
   location: ""
   date: "Été 2015 ; Automne 2020 – Hiver 2021"
@@ -293,8 +293,8 @@
   next_url: "project7"
 
 
-- title: "Prototypage d'un espace de travail pour la co-création sonore"
-  description: "Développer des technologies avec, et pour, les professionnelles en urbanisme"
+- title: "Interface de co-création sonore"
+  description: "Développer des technologies de simulation sonore avec, et pour, les professionnel.le.s en urbanisme"
   location: ""
   date: "Printemps 2019 – Été 2019"
   start-date: '2019'
@@ -343,7 +343,7 @@
   next_url: "project8"
 
 
-- title: "Le son de la COVID-19"
+- title: "Les sons de la COVID-19"
   description: "Un aperçu du silence que nous pensions souhaiter"
   location: ""
   date: "2020 - 2023"
@@ -508,8 +508,8 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   next_url: "project11"
 
 
-- title: "Activités récréatives vs résidentielles : Cohabitation sonore dans le centre-ville de Montréal (ListenUpMTL / ÉcoutezMTL)"
-  description: "Recherche sur la cohabitation sonore dans les rues piétonnes durant la COVID-19"
+- title: "ÉcoutezMTL et ses activités récréatives"
+  description: "Recherche sur la cohabitation sonore entre activités récréatives vs résidentielles"
   location: "Montréal, Canada"
   date: "Printemps 2021 – Printemps 2022"
   start-date: '2021'
@@ -560,8 +560,8 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   next_url: "project12"
 
 
-- title: "Activités industrielles vs résidentielles : Cohabitation sonore dans Assomption Sud-Longue Pointe"
-  description: "Etudier la cohabitation sonore autour du port de Montréal"
+- title: "Vivre près des industries et du port"
+  description: "Cohabitation sonore dans Assomption Sud-Longue Pointe"
   location: "Montréal, Canada"
   date: "Printemps 2022 – Printemps 2023; Printemps 2024 – Printemps 2025"
   start-date: '2022'
@@ -617,7 +617,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   next_url: "project13"
 
 
-- title: "Quelle est la prochaine étape pour la vie et le bruit nocturne à Montréal ?"
+- title: "Vie nocturne"
   description: "Prendre en compte le sonore dans la politique de la vie nocturne à Montréal"
   location: ""
   date: "Printemps 2021 – Printemps 2023"
@@ -677,8 +677,8 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   next_url: 'project14'
 
 
-- title: "Les sons du Quartier des spectacles"
-  description: "Comprendre les ambiances sonores des festivals  montréalais"
+- title: "Quartier des spectacles"
+  description: "Comprendre les ambiances sonores des festivals montréalais"
   location: "Montréal, QC"
   date: "Hiver 2020 – Hiver 2021"
   start-date: '2020'
@@ -729,8 +729,8 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   next_url: 'project15'
 
 
-- title: "L'art sonore dans les espaces publics: Niches Acoustiques"
-  description: "Informer la conception de l'art sonore dans un espace public parisien grâce à des simulations de paysage sonore"
+- title: "Niches Acoustiques"
+  description: "Informer l'art sonore grâce à des simulations de paysage sonore à Paris"
   location: "Paris, France"
   date: "2021 – En cours"
   start-date: '2021'
@@ -781,8 +781,8 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
 
 
 
-- title: "L’art sonore dans les espaces publics : Les Madelinéennes"
-  description: "Son et patrimoine culturel dans l'espace public : évaluation d'une installation sonore avec la communauté locale"
+- title: "Les Madelinéennes"
+  description: "Son et patrimoine culturel : évaluation d'une installation sonore avec la communauté locale à Verdun"
   location: "Montreal, QC"
   date: "2023- En cours"
   start-date: '2023'
@@ -832,8 +832,8 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   next_url: 'project17'
 
 
-- title: "Les églises, lieux de restauration"
-  description: "Une exploration des qualités sensorielles des bâtiments d'église en dehors du contexte cultuel"
+- title: "Les églises comme zones calmes"
+  description: "Explorer les qualités sensorielles des églises en dehors du contexte religieux"
   location: "Montréal, QC"
   date: "Automne 2021 – Automne 2022"
   start-date: '2021'
@@ -887,8 +887,8 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   next_url: 'project18'
 
 
-- title: "Partage de musique dans les espaces publics : Musikiosk"
-  description: "Intégrer la musique dans l'espace public grâce à un système sonore interactif"
+- title: "Musikiosk"
+  description: "Un système interactif de partage de musique dans un parc"
   location: "Parc du Portugal, Montreal, QC"
   date: "2014 - Été 2015"
   start-date: '2014'
@@ -941,8 +941,8 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   next_url: 'project19'
 
 
-- title: "L’art sonore dans les espaces publics : Fleurs-de-Macadam"
-  description: "Adopter une approche de recherche-création participative pour améliorer l'ambiance sonore d'un espace public urbain"
+- title: "Fleurs-de-Macadam"
+  description: "Recherche-création pour améliorer l'ambiance d'une nouvelle place publique par l'art sonore"
   location: "Plateau-Mont-Royal, Montreal, QC"
   date: "Été 2018 – 2019"
   start-date: '2018'
@@ -996,8 +996,8 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   next_url: 'project20'
 
 
-- title: "Des balades sonores pour intéresser les professionnelles et le grand public aux questions sonores"
-  description: "Utiliser les balades sonores immersives pour sensibiliser au sonore et cultiver l'empathie parmi les professionnelles et le grand public"
+- title: "Balades sonores"
+  description: "Sensibiliser les professionnelles et le grand public aux questions sonores"
   location: "Boston, Montréal, Amsterdam"
   date: "2013 – En cours"
   start-date: '2013'
@@ -1053,8 +1053,8 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
 
 
 
-- title: "Intéresser les professionnelles en urbanisme et le grand public au sonore "
-  description: "Des stratégies pour mobiliser les connaissances liées au sonore dans la pratique et le discours public "
+- title: "Sensibilisation et mobilisation des connaissances"
+  description: "Conscientiser au sonore dans la pratique et le discours public "
   location: ""
   date: "2013 - en cours"
   start-date: '2013'
@@ -1106,8 +1106,8 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
 
 
 
-- title: "L'injustice sonore"
-  description: "Différents groupes socio-économiques sont différemment exposés au bruit à long terme"
+- title: "Injustice sonore"
+  description: "Différents groupes socio-économiques sont différemment exposés au bruit"
   location: ""
   date: "2020 - En cours"
   start-date: '2020'
@@ -1153,8 +1153,8 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
 
 
 
-- title: "City Ditty : Un simulateur d'ambiances sonores en réalité virtuelle"
-  description: "un projet visant à créer des outils de planification sonore accessibles qui tiennent compte de l'expérience auditive au sens large des usagerères de la ville"
+- title: "City Ditty"
+  description: "Un simulateur d'ambiances sonores en réalité virtuelle"
   location: ""
   date: "2018 - en cours"
   start-date: '2018'
@@ -1240,8 +1240,8 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   next_url: project24
 
 
-- title: "Illustrer le concept d’ambiance sonore : Fantastique Acoustique"
-  description: "Contextualiser les enjeux sonores urbains pour le grand public à travers des bandes dessinées"
+- title: "Fantastique Acoustique"
+  description: "Illustrer les concepts d’ambiance sonore en bandes dessinées"
   location: "Montréal"
   date: "Automne 2023 - Printemps 2024"
   start-date: '2023'
@@ -1307,7 +1307,7 @@ Bonne lecture !"
   next_url: "project25"
 
 
-- title: "De votre domicile à votre espace vert local ; Ce que vous entendez entre les deux ?"
+- title: "Autour des espaces verts"
   description: "Ambiance sonore des espaces verts accessibles à pied, une approche cartographique participative"
   location: ""
   image: "/assets/images/projects/GreenSpaceWalkingAccess/GreenSpaceNoiseNeighbourhood.jpeg"
@@ -1360,8 +1360,8 @@ Bonne lecture !"
   next_url: "project26"
   
 
-- title: "Les spectacles de rue et la qualité de l'espace public urbain"
-  description: "un projet visant à utiliser City Ditty pour explorer les effets des spectacles de rue sur la qualité de l'espace public urbain"
+- title: "Spectacles de rue"
+  description: "Effets des spectacles de rue sur la qualité de l'espace public urbain"
   location: ""
   date: "Automne 2023 - En cours"
   start-date: "2023"
