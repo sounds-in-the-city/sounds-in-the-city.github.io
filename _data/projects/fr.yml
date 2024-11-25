@@ -1,14 +1,14 @@
 - title: "Terrasses Roy"
   description: "Piétonnisation au cœur du Plateau-Mont-Royal"
   location: "Plateau-Mont-Royal, Montréal, QC"
-  date: "Été et Automne 2017"
+  date: "2017"
   start-date: "2017"
   end-date: "2017"
   image: "/assets/images/projects/Roy/Roy2.jpg"
   url: "project1"
   fundings: "Bourse CRSH-SDP"
   collaborators: "Ville de Montréal (Arrondissement Plateau-Mont-Royal)"
-  name: "TERRASSES ROY"
+  name: "Terrasses Roy"
   tags:
     - name: 'espace public'
       id: 'espace_public'
@@ -109,7 +109,7 @@
 - title: "Brumisateurs des Fleurs de Macadam"
   description: "Effet de l'ajout de brunisateurs dans une place publique"
   location: "Plateau-Mont-Royal, Montreal, QC"
-  date: "Été 2018"
+  date: "2018"
   start-date: '2018'
   end-date: '2018'
   image: "/assets/images/projects/Fleurs_de_Macadam_misters/DSC_0319.jpeg"
@@ -150,7 +150,7 @@
 - title: "Co-conception d'ambiances sonores"
   description: "Ateliers visant à déterminer les besoins des professionnel.le.s en matière de technologie"
   location: "Montréal"
-  date: "Été 2019"
+  date: "2019"
   start-date: '2019'
   end-date: '2019'
   image: "/assets/images/projects/Street Performances and the Quality of Urban Public Space/Musician in the park.png"
@@ -252,7 +252,7 @@
 - title: "Ambiance sonore au restaurant"
   description: "Améliorer l’environnement sonore des restaurants"
   location: "Montréal"
-  date: "Été 2015 ; Automne 2020 – Hiver 2021"
+  date: "2015 ; 2020 – 2021"
   start-date: '2015'
   end-date: '2021'
   image: '/assets/images/projects/restaurant/restaurant-ithq-sherbrooke-montreal-13.jpg'
@@ -296,7 +296,7 @@
 - title: "Interface de co-création sonore"
   description: "Développer des technologies de simulation sonore avec, et pour, les professionnel.le.s en urbanisme"
   location: "Montréal"
-  date: "Printemps-été 2019"
+  date: "2019"
   start-date: '2019'
   end-date: '2019'
   image: '/assets/images/projects/Codesign_sketch_pad/DSC_1272.jpeg'
@@ -511,7 +511,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
 - title: "ÉcoutezMTL et ses activités récréatives"
   description: "Recherche sur la cohabitation sonore entre activités récréatives vs résidentielles"
   location: "Montréal"
-  date: "Printemps 2021 – Printemps 2022"
+  date: "2021 – 2022"
   start-date: '2021'
   end-date: '2022'
   image: "/assets/images/projects/recreation_v_residence/IMG_1848_QdS_CreditsFXFeron.JPG"
@@ -563,7 +563,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
 - title: "Vivre près des industries et du port"
   description: "Cohabitation sonore dans Assomption Sud-Longue Pointe"
   location: "Montréal"
-  date: "Printemps 2022 – Printemps 2023; Printemps 2024 – Printemps 2025"
+  date: "2022 – 2023; 2024 – 2025"
   start-date: '2022'
   end-date: '2025'
   image: "/assets/images/projects/industry_v_residence/Port-port.jpeg"
@@ -620,7 +620,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
 - title: "Vie nocturne"
   description: "Prendre en compte le sonore dans la politique de la vie nocturne à Montréal"
   location: "Montréal"
-  date: "Printemps 2021 – Printemps 2023"
+  date: "2021 – 2023"
   start-date: '2021'
   end-date: '2023'
   image: "/assets/images/projects/nightlife/before.jpg"
@@ -680,14 +680,14 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
 - title: "Quartier des spectacles"
   description: "Comprendre les ambiances sonores des festivals montréalais"
   location: "Montréal"
-  date: "Hiver 2020 – Hiver 2021"
+  date: "2020 – 2021"
   start-date: '2020'
   end-date: '2021'
   image: "/assets/images/projects/nightlife/QDS.jpg"
   url: "project14"
   fundings: "MITACS programme Accélération avec le Partenariat du Quartier des spectacles, CRSH – subvention de développement de partenariats"
   collaborators: "Partenariat du Quartier des spectacles"
-  name: "LES SONS DU QUARTIER DES SPECTACLES"
+  name: "Quartier des spectacles"
   tags:
     - name: "espace public"
       id: "espace_public"
@@ -732,7 +732,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
 - title: "Niches Acoustiques"
   description: "Informer l'art sonore grâce à des simulations de paysage sonore à Paris"
   location: "Paris, France"
-  date: "2021 – En cours"
+  date: "2021 – en cours"
   start-date: '2021'
   end-date: '2025'
   image: "/assets/images/projects/Niches_acoustiques/XP1_panorama.jpg"
@@ -783,8 +783,8 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
 
 - title: "Les Madelinéennes"
   description: "Son et patrimoine culturel : évaluation d'une installation sonore avec la communauté locale à Verdun"
-  location: "Montréal"
-  date: "2023- En cours"
+  location: "Parc des Madelinots, Montréal"
+  date: "2023 - en cours"
   start-date: '2023'
   end-date: '2025'
   image: "/assets/images/projects/les_madelinennes/230711_Parc-Madelinots_006.jpg"
@@ -835,14 +835,14 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
 - title: "Les églises comme zones calmes"
   description: "Explorer les qualités sensorielles des églises en dehors du contexte religieux"
   location: "Montréal"
-  date: "Automne 2021 – Automne 2022"
+  date: "2021 – 2022"
   start-date: '2021'
   end-date: '2022'
   image: "/assets/images/projects/Church_Restoration/ChurchRestor_MAIN_SPA_IMG_1920.JPG"
   url: "project17"
   fundings: "Fonds de recherche du Québec – Société et culture (FRQSC), Postdoctoral Fellowship"
   collaborators: "Paroisse de Saint-Pierre-Apôtre, St. Peter et St. Paul Russian Orthodox Cathedral (Centre Sud). Parishes du Très-Saint-Nom-de-Jésus et La Nativité-de-la-Sainte-Vierge d’Hochelaga, et les responsables diocésains de l'église de Très-Saint-Rédempteur (Hochelaga-Maisonneuve)."
-  name: "LES ÉGLISES, LIEUX DE RESTAURATION"
+  name: "Les églises comme zones calmes"
   tags:
     - name: "espace intérieur"
       id: 'espace_interieur'
@@ -890,7 +890,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
 - title: "Musikiosk"
   description: "Un système interactif de partage de musique dans un parc"
   location: "Parc du Portugal, Montreal"
-  date: "2014 - Été 2015"
+  date: "2014 - 2015"
   start-date: '2014'
   end-date: '2015'
   image: "/assets/images/projects/Musikiosk/MusikioskAd.png"
@@ -944,7 +944,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
 - title: "Fleurs-de-Macadam"
   description: "Recherche-création pour améliorer l'ambiance d'une nouvelle place publique par l'art sonore"
   location: "Plateau-Mont-Royal, Montreal"
-  date: "Été 2018 – 2019"
+  date: "2018 – 2019"
   start-date: '2018'
   end-date: '2019'
   image: "/assets/images/projects/Fleurs_de_Macadam_sound_art/speaker_ZOOM.jpg"
@@ -984,7 +984,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
       name: ''
   publications:
     - url: 'https://www.sciencedirect.com/science/article/pii/S0169204624001725?via%3Dihub'
-      name: 'Fraisse, V., Tarlao, C., & Guastavino, C. (In press). Shaping City Soundscapes: In-Situ Evaluation of Four Sound Installations in an Urban Public Space. <i>Landscape and Urban Planning</i>.'
+      name: 'Fraisse, V., Tarlao, C., & Guastavino, C. (2024). Shaping City Soundscapes: In-Situ Evaluation of Four Sound Installations in an Urban Public Space. <i>Landscape and Urban Planning</i>.'
     - url: 'https://www.taylorfrancis.com/chapters/edit/10.4324/9781003140535-5/designing-sound-installations-public-spaces-catherine-'
       name: 'Guastavino, C., Fraisse, V., D’Ambrosio, S, Legast, E, & Lavoie, M. (2022). Designing sound installations in public spaces: A collaborative research creation approach. In Filimowicz, M. (Ed)., <i>Designing Interaction for Music and Sound</i>. Routledge, Abingdon, UK.'
     - url: 'https://www.researchgate.net/publication/333058798_Sounds_in_the_City_Improving_the_soundscape_of_a_public_square_through_sound_art'
@@ -1109,7 +1109,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
 - title: "Injustice sonore"
   description: "Différents groupes socio-économiques sont différemment exposés au bruit"
   location: ""
-  date: "2020 - En cours"
+  date: "2020 - en cours"
   start-date: '2020'
   end-date: '2024'
   image: "/assets/images/projects/sonic_injustice/Railyards.jpg"
@@ -1243,7 +1243,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
 - title: "Fantastique Acoustique"
   description: "Illustrer les concepts d’ambiance sonore en bandes dessinées"
   location: ""
-  date: "Automne 2023 - Printemps 2024"
+  date: "2023 - 2024"
   start-date: '2023'
   end-date: '2024'
   image: "/assets/images/projects/illustrating_soundscape/IMG_1367.jpeg"
@@ -1363,7 +1363,7 @@ Bonne lecture !"
 - title: "Spectacles de rue"
   description: "Effets des spectacles de rue sur la qualité de l'espace public urbain"
   location: ""
-  date: "Automne 2023 - En cours"
+  date: "2023 - en cours"
   start-date: "2023"
   end-date: "2024"
   image: "/assets/images/projects/Street_Performances/Musician_in_the_park.png"
