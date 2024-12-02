@@ -461,9 +461,9 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
 - title: "La question sonore dans la recherche urbaine"
   description: "Faire progresser l'analyse et l’élaboration de politiques grâce à des outils de planification sonores"
   location: "Montréal; Venise, Italie"
-  date: "2021 - 2022"
+  date: "2021 - 2023"
   start-date: '2021'
-  end-date: '2022'
+  end-date: '2023'
   image: "/assets/images/projects/soninurb/Soninurb.jpg"
   url: "project10"
   fundings: "Programme européen pour la recherche et l’innovation Horizon Europe 2020 –  Bourse Marie Sklodowska-Curie "
@@ -489,10 +489,13 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
      credits: 'Nicola Di Croce'
      alt: "Processus sonore"
   after:
-   - image: ''
-     credits: ''
-     alt: ""
-  brief: "Comment étudier et concevoir un environnement sonore vivant et inclusif ? "
+   - image: '/assets/images/projects/soninurb/Soninurb1.jpg'
+     credits: 'Andrea Bordoli'
+     alt: "Processus sonore"
+   - image: '/assets/images/projects/soninurb/Soninurb2.jpg'
+     credits: 'Nicola Di Croce'
+     alt: "Containing multitudes, une installation sonore Place de la Paix, Montréal, 2021"
+  brief: "	Comment des méthodes créatives, participatives et collaboratives de recherche sur l'environnement sonore peuvent-elles éclairer l'analyse et l’élaboration des politiques urbaines ?<br><br>Comment les interventions sonores dans l'espace public peuvent-elles contribuer à un environnement sonore vivant et inclusif ?"
   about: "Le projet SONINURB, financé par l'Union Européenne, étudie l'environnement sonore qui contribue à l’ambiance propre de chaque lieu, en cherchant à comprendre comment l’ambiance influence la qualité perçue de l'environnement urbain : elle peut soit attirer les gens, soit les repousser ou les exclure, ou encore les faire se sentir à l'aise ou en danger. <br><br> Ce projet vise à montrer comment la recherche sur l'environnement sonore peut apporter de nouvelles approches en matière d'analyse et d’élaboration des politiques urbaines. Il explore également la manière dont l'expérimentation de nouveaux outils de planification sonore pour étudier les zones urbaines en cours de transformation peut conduire à des approches collaboratives en termes de conception sonore urbaine. Enfin, le projet montre comment le recours à des installations et interventions sonores participatives peut encourager l'inclusion sociale et le développement local durable."
   participation: "Le projet aborde ces objectifs par un travail de terrain dans deux lieux géographiques différents : Montréal (Canada) – dans le cadre de Ville Sonore, et Venise (Italie) – dans le cadre de l'Université Iuav de Venise."
   contact_info: "Pour plus de détails, contactez: Nicola di Croce"
