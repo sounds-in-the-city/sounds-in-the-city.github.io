@@ -464,9 +464,9 @@
 - title: "SonInUrb"
   description: "Sonic inquiry in Urban Research"
   location: ""
-  date: "2021 - 2022"
+  date: "2021 - 2023"
   start-date: "2021"
-  end-date: "2022"
+  end-date: "2023"
   image: "/assets/images/projects/soninurb/Soninurb.jpg"
   url: "project10"
   fundings: "The European Union’s Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant"
@@ -492,10 +492,13 @@
       credits: 'Nicola Di Croce'
       alt: "Sonic process."
   after:
-    - image: ''
-      credits: ''
-      alt: ""
-  brief: "How can we research and design a lively and inclusive sound environment?"
+    - image: '/assets/images/projects/soninurb/Soninurb1.jpg'
+      credits: 'Andrea Bordoli'
+      alt: "Sonic process."
+    - image: '/assets/images/projects/soninurb/Soninurb2.jpg'
+      credits: 'Nicola Di Croce'
+      alt: "Containing multitudes, a sound installation in Place de la Paix, Montreal, 2021."
+  brief: "How can creative, participatory and collaborative methods to research the sound environment inform urban policy analysis and design?<br><br>How can sound interventions in public space contribute to a lively and inclusive sound environment?"
   about: "The EU-funded SONINURB project studies the sound environment that contributes to the  atmosphere unique to each location, understanding how atmosphere directly impacts the perceived quality of the urban environment:  it can either attract people or drive them away or make them feel comfortable or under threat. The project aims to show how researching the sound  environment can support novel approaches to urban policy analysis and policy design. It further explores how experimenting with new sound planning tools to investigate urban areas undergoing transformation can lead to collaborative approaches to urban sound design. Finally, the project shows how the use of participatory sound installations and sonic interventions can promote social inclusion and sustainable local development."
   participation: "The project addresses these aims by fieldwork in two different geographical locations: Montreal (Canada) – as part of Sounds in the City, and Venice (Italy) – as part of Iuav University of Venice."
   contact_info: "For details, please contact: Nicola Di Croce"
