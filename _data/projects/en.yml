@@ -1150,7 +1150,7 @@
   date: "2018 - ongoing"
   start-date: "2018"
   end-date: "2025"
-  image: "/assets/images/projects/City_Ditty/City_Ditty_Day_in_the_Park.png"
+  image: "/assets/images/projects/City_Ditty/City_Ditty_Day_in_the_Park.jpg"
   url: "project23"
   fundings: 'This project has been supported in some form by all three sectors of <a href="https://frq.gouv.qc.ca/en/" target="_blank">Fonds de recherche du Québec</a>: (Society & Culture, Nature and technologies, and Health); the <a href="https://www.cirmmt.org/" target="blank">Centre for Interdisciplinary Research in Music Media and Technology (CIRMMT)<a/>; and a <a href="https://www.mcgill.ca/wolfechair/wolfe-fellows" target="_blank"> Wolfe Graduate Fellowship in Scientific and Technological Literacy.</a>'
   collaborators: "Ying-Ying Zhang and Gianluca Grazioli (McGill Sound Recording PhD candidates); Darcy Tyler (Cognitive Sciences undergraduate research assistant)"
@@ -1175,7 +1175,7 @@
       credits: 'Richard Yanaky'
       alt: "City Ditty Cafe"
   after:
-    - image: '/assets/images/projects/City_Ditty/City_Ditty_Day_in_the_Park.png'
+    - image: '/assets/images/projects/City_Ditty/City_Ditty_Day_in_the_Park.jpg'
       credits: 'Richard Yanaky'
       alt: "City Ditty Day in the Park"
     - image: '/assets/images/projects/City_Ditty/City_Ditty_Food_Hall.png'
@@ -1184,7 +1184,7 @@
     - image: '/assets/images/projects/City_Ditty/City_Ditty_fountain_square.png'
       credits: 'Richard Yanaky'
       alt: "City Ditty fountain square"
-    - image: '/assets/images/projects/City_Ditty/City_Ditty_Busy_City.png'
+    - image: '/assets/images/projects/City_Ditty/City_Ditty_Busy_City.jpg'
       credits: 'Richard Yanaky'
       alt: "City Ditty Busy City"
   brief: "An ongoing user-centered design process to provide accessible audio-visual sound planning tools.<br<br>Designed to help raise sound-awareness through interactive lessons on soundscape principles and design.<br<br>Supports rapid prototyping of soundscapes through simple manipulation of sound sources, time of day, weather conditions.<br<br>Provides different methods visualization and auralization for sound.<br<br>Prioritizes ease of use for non-sound experts.<br<br>Includes built-in data collection methods including questionnaires, user-action logs (both what was interacted with, and user pathway tracking)."

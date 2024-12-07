@@ -1162,7 +1162,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   date: "2018 - en cours"
   start-date: '2018'
   end-date: '2025'
-  image: "/assets/images/projects/City_Ditty/City_Ditty_Day_in_the_Park.png"
+  image: "/assets/images/projects/City_Ditty/City_Ditty_Day_in_the_Park.jpg"
   url: "project23"
   fundings: "Ce projet a été soutenu d'une manière ou d'une autre par les trois
     secteurs de<a href ='https://frq.gouv.qc.ca/en/'</a> Fonds de recherche du Québec</a>: (Society & Culture, Nature and
@@ -1193,7 +1193,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
      credits: 'Richard Yanaky'
      alt: 
   after:
-    - image: '/assets/images/projects/City_Ditty/City_Ditty_Day_in_the_Park.png'
+    - image: '/assets/images/projects/City_Ditty/City_Ditty_Day_in_the_Park.jpg'
       credits: 'Richard Yanaky'
       alt: Après le projet
     - image: '/assets/images/projects/City_Ditty/City_Ditty_Food_Hall.png'
@@ -1202,7 +1202,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
     - image: '/assets/images/projects/City_Ditty/City_Ditty_fountain_square.png'
       credits: 'Richard Yanaky'
       alt: ""
-    - image: '/assets/images/projects/City_Ditty/City_Ditty_Busy_City.png'
+    - image: '/assets/images/projects/City_Ditty/City_Ditty_Busy_City.jpg'
       credits: 'Richard Yanaky'
       alt: ""
   brief: "Processus continu de design centré sur l'utilisateur·rice pour fournir des outils audio-visuels de planification sonore accessibles.
