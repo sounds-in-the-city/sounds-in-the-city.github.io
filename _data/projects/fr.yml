@@ -1189,17 +1189,17 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
     - name: "technologies émergentess"
       id: 'technologies_émergentes'
   before:
-   - image: '/assets/images/projects/City_Ditty/CityDitty-Cafe.png'
+   - image: '/assets/images/projects/City_Ditty/City_Ditty_Cafe.jpg'
      credits: 'Richard Yanaky'
      alt: 
   after:
     - image: '/assets/images/projects/City_Ditty/City_Ditty_Day_in_the_Park.jpg'
       credits: 'Richard Yanaky'
-      alt: Après le projet
-    - image: '/assets/images/projects/City_Ditty/City_Ditty_Food_Hall.png'
+      alt: ""
+    - image: '/assets/images/projects/City_Ditty/City_Ditty_Food_Hall.jpg'
       credits: 'Richard Yanaky'
       alt: ""
-    - image: '/assets/images/projects/City_Ditty/City_Ditty_fountain_square.png'
+    - image: '/assets/images/projects/City_Ditty/City_Ditty_fountain_square.jpg'
       credits: 'Richard Yanaky'
       alt: ""
     - image: '/assets/images/projects/City_Ditty/City_Ditty_Busy_City.jpg'

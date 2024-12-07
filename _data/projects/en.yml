@@ -1171,17 +1171,17 @@
     - name: "emerging technologies"
       id: "emerging_technologies"
   before:
-    - image: '/assets/images/projects/City_Ditty/CityDitty-Cafe.png'
+    - image: '/assets/images/projects/City_Ditty/City_Ditty_Cafe.jpg'
       credits: 'Richard Yanaky'
       alt: "City Ditty Cafe"
   after:
     - image: '/assets/images/projects/City_Ditty/City_Ditty_Day_in_the_Park.jpg'
       credits: 'Richard Yanaky'
       alt: "City Ditty Day in the Park"
-    - image: '/assets/images/projects/City_Ditty/City_Ditty_Food_Hall.png'
+    - image: '/assets/images/projects/City_Ditty/City_Ditty_Food_Hall.jpg'
       credits: 'Richard Yanaky'
       alt: "City Ditty Food Hall"
-    - image: '/assets/images/projects/City_Ditty/City_Ditty_fountain_square.png'
+    - image: '/assets/images/projects/City_Ditty/City_Ditty_fountain_square.jpg'
       credits: 'Richard Yanaky'
       alt: "City Ditty fountain square"
     - image: '/assets/images/projects/City_Ditty/City_Ditty_Busy_City.jpg'
