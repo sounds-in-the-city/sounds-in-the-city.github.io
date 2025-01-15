@@ -1,6 +1,10 @@
 video:
-  title: "VIDÉOS"
+  title: "VIDÉOS / TV"
   data:
+    - url: "https://www.youtube.com/embed/UzNR5D4B0pI"
+      title: "À l’écoute de la ville"
+      description: "Société Radio-Canada, Émission Découverte [TV report with C. Guastavino]"
+      date: "2021, April 28"
     - url: "https://www.youtube.com/embed/VXRy_wlOSIA?si=IMb2qn_z_FhARYaq"
       title: "Presentation of the Sounds in the City research partnership"
       description: "Video interview with C. Guastavino at the 7e édition of SÉRI « Synergie Émergente Recherche Industrie »"

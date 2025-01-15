@@ -1,6 +1,10 @@
 video:
-  title: "VIDEOS"
+  title: "VIDEOS / TV"
   data:
+    - url: "https://www.youtube.com/embed/UzNR5D4B0pI"
+      title: "À l’écoute de la ville"
+      description: "Société Radio-Canada, Émission Découverte [TV report with C. Guastavino]"
+      date: "2021, April 28"
     - url: "https://www.youtube.com/embed/VXRy_wlOSIA?si=IMb2qn_z_FhARYaq"
       title: "Presentation of the Sounds in the City research partnership"
       description: "Video interview with C. Guastavino at the 7e édition of SÉRI « Synergie Émergente Recherche Industrie »"
@@ -15,7 +19,7 @@ article:
   read: "READ"
   author: "AUTHOR"
   data:
-    - title: Etudier les nuisances sonores pour améliorer la qualité de vie
+    - title: "Etudier les nuisances sonores pour améliorer la qualité de vie"
       location: Journal Métro
       date: 2020, December 10
       author: 'Machillot. C'
@@ -25,6 +29,6 @@ audio:
   data:
     - url: "/assets/audios/1.mp3"
       id: "audio-1"
-      name: "Sounds of A busy road"
+      name: "Sounds of a busy road"
       credits: "V. Fraisse, 2023."
       album: "Le Plateau, Mont Royal, Montréal."
