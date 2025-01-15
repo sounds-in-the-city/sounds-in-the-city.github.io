@@ -3,8 +3,12 @@ video:
   data:
     - url: "https://www.youtube.com/embed/UzNR5D4B0pI"
       title: "À l’écoute de la ville"
-      description: "Société Radio-Canada, Émission Découverte [TV report with C. Guastavino]"
+      description: "Société Radio-Canada, Émission Découverte [avec C. Guastavino]"
       date: "2021, April 28"
+    - url: "https://www.youtube.com/embed/a-U8tPuLCQE?si=154UgpYyuoGAk_Y5"
+      title: "Écoutez Montréal: les ambiances sonores au centre-ville"
+      description: "Ville de Montréal [avec C. Guastavino, E. Bild, C. Trudeau]"
+      date: "2023"
     - url: "https://www.youtube.com/embed/VXRy_wlOSIA?si=IMb2qn_z_FhARYaq"
       title: "Presentation of the Sounds in the City research partnership"
       description: "Video interview with C. Guastavino at the 7e édition of SÉRI « Synergie Émergente Recherche Industrie »"
