@@ -31,26 +31,12 @@ article:
   read: "LINK"
   author: "AUTHOR"
   data:
-    - title: "Des sons agréables pour contrer la pollution sonore"
-      location: "Le 15-18"
-      date: 2024, Dec. 4
-      author: "Radio-Canada"
-      link: "https://ici.radio-canada.ca/ohdio/premiere/emissions/le-15-18/segments/rattrapage/1931701/contrer-pollution-sonore-grace-a-installations-artistiques-p-a-saulnier"
+   
     - title: "Des sons pour combattre le bruit urbain"
       location: "La Presse"
       date: 2024, Dec. 1
       author: "Mathieu Perreault"
       link: "https://www.lapresse.ca/actualites/sciences/2024-12-01/des-sons-pour-combattre-le-bruit-urbain.php"
-    - title: "Embellir les espaces urbains grâce aux paysages sonores"
-      location: "Les Années Lumière"
-      date: 2024, Dec. 1
-      author: "Radio-Canada"
-      link: "https://ici.radio-canada.ca/ohdio/premiere/emissions/les-annees-lumiere/segments/rattrapage/1921169/ajouter-sons-agreables-pour-ameliorer-paysage-sonore-urbain"
-    - title: "What kind of impact can sound have on your surroundings?"
-      location: "Let’s Go"
-      date: 2024, Nov. 15
-      author: "CBC"
-      link: "https://www.cbc.ca/listen/live-radio/1-383-lets-go/clip/16109959-what-kind-impact-sound-surroundings"
     - title: "Temporary sound installations could help reduce noise pollution: study"
       location: "McGill Newsroom"
       date: 2024, Nov. 14
@@ -61,11 +47,6 @@ article:
       date: 2024, Oct. 29
       author: "Jenna Durante"
       link: "https://www.thetribune.ca/sci-tech/finding-sonic-serenity-in-the-big-city-29102024/"
-    - title: "La ville sonore avec Catherine Guastavino"
-      location: "The rest is just noise (podcast)"
-      date: 2024, May. 28
-      author: "Mitchell, A., Aletta, F. & Oberman, T"
-      link: "https://www.justnoisepod.com/1438372/episodes/15151239-la-ville-sonore-avec-catherine-guastavino"
     - title: "Les archéologues du son"
       location: "Continuité, 178 – Patrimoine Sonore, 22-24"
       date: 2023
@@ -86,6 +67,28 @@ article:
       date: 2020, December 10
       author: 'Machillot. C'
       link: '#'
+      
+      
+    - title: "Des sons agréables pour contrer la pollution sonore"
+      location: "Le 15-18"
+      date: 2024, Dec. 4
+      author: "Radio-Canada"
+      link: "https://ici.radio-canada.ca/ohdio/premiere/emissions/le-15-18/segments/rattrapage/1931701/contrer-pollution-sonore-grace-a-installations-artistiques-p-a-saulnier"
+    - title: "Embellir les espaces urbains grâce aux paysages sonores"
+      location: "Les Années Lumière"
+      date: 2024, Dec. 1
+      author: "Radio-Canada"
+      link: "https://ici.radio-canada.ca/ohdio/premiere/emissions/les-annees-lumiere/segments/rattrapage/1921169/ajouter-sons-agreables-pour-ameliorer-paysage-sonore-urbain"
+    - title: "What kind of impact can sound have on your surroundings?"
+      location: "Let’s Go"
+      date: 2024, Nov. 15
+      author: "CBC"
+      link: "https://www.cbc.ca/listen/live-radio/1-383-lets-go/clip/16109959-what-kind-impact-sound-surroundings"
+    - title: "La ville sonore avec Catherine Guastavino"
+      location: "The rest is just noise (podcast)"
+      date: 2024, May. 28
+      author: "Mitchell, A., Aletta, F. & Oberman, T"
+      link: "https://www.justnoisepod.com/1438372/episodes/15151239-la-ville-sonore-avec-catherine-guastavino"
       
 audio:
   title: "FIELD RECORDINGS"
