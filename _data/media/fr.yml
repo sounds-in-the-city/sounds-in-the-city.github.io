@@ -38,7 +38,7 @@ article:
       author: "Perreault, M."
       link: "https://www.lapresse.ca/actualites/sciences/2024-12-01/des-sons-pour-combattre-le-bruit-urbain.php"
     - title: "Les installations sonores, des alliées dans la lutte contre la pollution sonore"
-      location: "Salle de Presse McGill"
+      location: "Salle de presse McGill"
       date: 2024, Nov. 14
       author: "Gombay, K."
       link: "https://www.mcgill.ca/epi-biostat-occh/fr/channels/news/les-installations-sonores-des-alliees-dans-la-lutte-contre-la-pollution-sonore-361074"
@@ -92,7 +92,7 @@ article:
       author: "Radio-Canada"
       link: "https://ici.radio-canada.ca/ohdio/premiere/emissions/le-15-18/segments/rattrapage/1931701/contrer-pollution-sonore-grace-a-installations-artistiques-p-a-saulnier"
     - title: "Embellir les espaces urbains grâce aux paysages sonores"
-      location: "Les Années Lumière"
+      location: "Les années lumière"
       date: 2024, Dec. 1
       author: "Radio-Canada"
       link: "https://ici.radio-canada.ca/ohdio/premiere/emissions/les-annees-lumiere/segments/rattrapage/1921169/ajouter-sons-agreables-pour-ameliorer-paysage-sonore-urbain"
@@ -106,6 +106,21 @@ article:
       date: 2024, May. 28
       author: "Mitchell, A., Aletta, F. & Oberman, T."
       link: "https://www.justnoisepod.com/1438372/episodes/15151239-la-ville-sonore-avec-catherine-guastavino"
+    - title: "Les effets néfastes du bruit sur la santé : les détails avec C. Srivastava"
+      location: "Les années lumière"
+      date: 2022, Fev. 18
+      author: "Radio-Canada"
+      link: "https://ici.radio-canada.ca/ohdio/premiere/emissions/les-annees-lumiere/segments/reportage/390982/bruit-sante-pollution-nuit-paysage-environnement-maladie"
+    - title: "Pourquoi l’être humain a-t-il si peur du silence  "
+      location: "Moteur de recherche"
+      date: 2021, Dec. 15
+      author: "Radio-Canada"
+      link: "https://ici.radio-canada.ca/ohdio/premiere/emissions/moteur-de-recherche/episodes/591221/rattrapage-du-mercredi-15-decembre-2021/4"
+    - title: "The sounds of downtown"
+      location: "Daybreak"
+      date: 2021, Sept. 28
+      author: "CBC"
+      link: ""
       
 audio:
   title: "ENREGISTREMENTS SONORES"
