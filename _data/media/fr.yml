@@ -28,8 +28,8 @@ video:
 
 article:
   title: "PRESSE & RADIO"
-  read: "READ"
-  author: "AUTHOR"
+  read: "LIEN"
+  author: "AUTEUR"
   data:
     - title: "Des sons agréables pour contrer la pollution sonore"
       location: "Le 15-18"
