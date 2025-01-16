@@ -1,11 +1,11 @@
 - title: "Aménager par le sonore"
   id: 'Aménager'
   data:
-    - title: "Why should you care about sound? An introduction for urban practitioners to making cities sound better"
+    - title: "Pourquoi se préoccuper du sonore?  Introduction à l’attention des urbanistes pour construire des villes qui sonnent mieux"
       description: "Notas CPAU 55, Salud, cuidad y arquitectura, 2024"
       date: "2024"
       link:
-        url: "https://static.cpau.org/.newsite/revista_notas/notas_55/bild-edda-et-al/Bild-et-al_EN.pdf"
+        url: "https://static.cpau.org/.newsite/revista_notas/notas_55/bild-edda-et-al/bild-et-al_FR.pdf"
       authors:
         - name: 'Edda Bild'
         - name: 'Cynthia Tarlao'
@@ -33,8 +33,28 @@
 - title: "Synthèses graphiques"
   id: 'Synthèse'
   data:
-    - title: "Accroître notre compréhension de l’environnement sonore"
-      description: "Étude Environnement sonore - synthesis of ListenUp MTL, 2021-2023"
+    - title: "Un bruit de fond qui en dit long"
+      description: "Bande dessinée - Fantastique Acoustique, 2024"
+      date: "2024"
+      link:
+        url: ""
+      authors:
+        - name: 'Christopher Trudeau'
+        - name: 'Valérian Fraisse'
+        - name: 'Cynthia Tarlao'
+        - name: 'Marina Leon'
+    - title: "Si on repensait la ville par le son, 2024"
+      description: "Bande dessinée - Fantastique Acoustique"
+      date: "2024"
+      link:
+        url: ""
+      authors:
+        - name: 'Christopher Trudeau'
+        - name: 'Valérian Fraisse'
+        - name: 'Cynthia Tarlao'
+        - name: 'Madeleine Guastavino'
+    - title: "Accroître notre compréhension de l’environnement sonore, 2023"
+      description: "Étude Environnement sonore - synthèse d'ÉcoutezMTL, 2021-2023"
       date: "2020"
       link:
         url: "https://portail-m4s.s3.montreal.ca/pdf/environnement_sonore_drsp-mcgill_-_feuillet_methodo_collecte_donnees_0.pdf"
@@ -46,8 +66,8 @@
 - title: "Publications scientifiques"
   id: "paysage_sonore_et_urbanistes"
   data:
-    - title: "Most up to date listing of our publications"
-      description: "Available on Google Scholar"
+    - title: "Liste à jour de nos publications scientifiques"
+      description: "Disponible sur Google Scholar"
       date: "2020-12-10"
       link:
         url: "https://scholar.google.com/citations?hl=en&user=--26DqgAAAAJ"

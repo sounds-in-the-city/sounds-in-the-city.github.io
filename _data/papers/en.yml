@@ -34,7 +34,27 @@
 - title: "Visual project briefs"
   id: 'project briefs'
   data:
-    - title: "Accroître notre compréhension de l’environnement sonore"
+    - title: "Background noise that speaks volumes: Tales of sonic inequalities"
+      description: "Comics - Fantastic Acoustics, 2024"
+      date: "2024"
+      link:
+        url: ""
+      authors:
+        - name: 'Christopher Trudeau'
+        - name: 'Valérian Fraisse'
+        - name: 'Cynthia Tarlao'
+        - name: 'Marina Leon'
+    - title: "What if we rethink our cities through sound? Sketching a sound environment"
+      description: "Comics - Fantastic Acoustics, 2024"
+      date: "2024"
+      link:
+        url: ""
+      authors:
+        - name: 'Christopher Trudeau'
+        - name: 'Valérian Fraisse'
+        - name: 'Cynthia Tarlao'
+        - name: 'Madeleine Guastavino'
+    - title: "Accroître notre compréhension de l’environnement sonore, 2023"
       description: "Étude Environnement sonore - synthesis of ListenUp MTL, 2021-2023"
       date: "2020"
       link:
