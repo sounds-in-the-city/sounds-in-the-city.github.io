@@ -96,8 +96,12 @@ article:
       location: Journal Métro
       date: 2020, December 10
       author: 'Machillot. C'
-      link: '#'
-      
+      link: 'https://journalmetro.com/local/le-plateau-mont-royal/2587752/etudier-les-nuisances-sonores-pour-ameliorer-la-qualite-de-vie/'
+    - title: "L’après-COVID-19: tirer les leçons de ce printemps silencieux"
+      location: "Ici Radio-Canada"
+      date: 2020, May 30
+      author: "Leblanc, E."
+      link: "http://www.radio-canada.ca/util/postier/suggerer-go.asp?nID=4523621"
       
     - title: "Des sons agréables pour contrer la pollution sonore"
       location: "Le 15-18"
@@ -144,6 +148,23 @@ article:
       date: 2021, Jan. 14
       author: "Radio-Canada"
       link: "http://www.radio-canada.ca/util/postier/suggerer-go.asp?nID=4608635"
+    - title: "Le silence, une conséquence positive du confinement"
+      location: "L’heure du monde"
+      date: 2020, May 28
+      author: "Radio-Canada"
+      link: "http://www.radio-canada.ca/util/postier/suggerer-go.asp?nID=4523622"
+    - title: "Confinement et reduction du bruit en ville"
+      location: "Du côté de chez Catherine"
+      date: 2020, May 28
+      author: "Radio-Canada"
+      link: "http://www.radio-canada.ca/util/postier/suggerer-go.asp?nID=4868345"
+    - title: "Sons de la Ville en confinement : Entrevue avec Catherine Guastavino, professeure"
+      location: "Le 15-18 "
+      date: 2020, May 7
+      author: "Radio-Canada"
+      link: "http://www.radio-canada.ca/util/postier/suggerer-go.asp?nID=4511818"
+      
+      
 audio:
   title: "FIELD RECORDINGS"
   data:
