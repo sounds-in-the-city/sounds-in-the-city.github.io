@@ -1,5 +1,5 @@
 video:
-  title: "VIDÉOS / TV"
+  title: "TV & VIDÉOS"
   data:
     - url: "https://www.youtube.com/embed/UzNR5D4B0pI"
       title: "À l’écoute de la ville"
@@ -8,6 +8,10 @@ video:
     - url: "https://www.youtube.com/embed/a-U8tPuLCQE?si=154UgpYyuoGAk_Y5"
       title: "Écoutez Montréal: les ambiances sonores au centre-ville"
       description: "Ville de Montréal [avec C. Guastavino, E. Bild, C. Trudeau]"
+      date: "2023"
+    - url: "https://player.vimeo.com/video/766517619?h=50f2cbd204&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+      title: "Mesure du bruit / Ambiances sonores"
+      description: "Ordre des Urbanistes du Québec [avec C. Guastavino et M. Carrier]"
       date: "2023"
     - url: "https://www.youtube.com/embed/tIZXHU7sKb4?si=O9T_4S9Dq6syJ0rN"
       title: "L'environnement sonore de Montréal"
@@ -23,17 +27,32 @@ video:
       date: "2015"
 
 article:
-  title: "ARTICLES"
+  title: "PRESSE & RADIO"
   read: "READ"
   author: "AUTHOR"
   data:
+    - title: "Des sons agréables pour contrer la pollution sonore"
+      location: "Le 15-18"
+      date: 2024, Dec. 4
+      author: "Société Radio-Canada"
+      link: "https://ici.radio-canada.ca/ohdio/premiere/emissions/le-15-18/segments/rattrapage/1931701/contrer-pollution-sonore-grace-a-installations-artistiques-p-a-saulnier"
+    - title: "Des sons pour combattre le bruit urbain"
+      location: "La Presse"
+      date: 2024, Dec. 1
+      author: "Mathieu Perreault"
+      link: "https://www.lapresse.ca/actualites/sciences/2024-12-01/des-sons-pour-combattre-le-bruit-urbain.php"
+    - title: "Embellir les espaces urbains grâce aux paysages sonores"
+      location: "Les Années Lumière"
+      date: 2024, Dec. 1
+      author: "Société Radio-Canada"
+      link: "https://ici.radio-canada.ca/ohdio/premiere/emissions/les-annees-lumiere/segments/rattrapage/1921169/ajouter-sons-agreables-pour-ameliorer-paysage-sonore-urbain"
     - title: Etudier les nuisances sonores pour améliorer la qualité de vie
       location: Journal Métro
       date: 2020, December 10
       author: 'Machillot. C'
       link: '#'
 audio:
-  title: "AUDIO"
+  title: "ENREGISTREMENTS SONORES"
   data:
     - url: "/assets/audios/1.mp3"
       id: "audio-1"
