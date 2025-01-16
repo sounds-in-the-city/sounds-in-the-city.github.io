@@ -118,7 +118,7 @@ article:
       link: "https://www.cbc.ca/listen/live-radio/1-383-lets-go/clip/16109959-what-kind-impact-sound-surroundings"
     - title: "La ville sonore avec Catherine Guastavino"
       location: "The rest is just noise (podcast)"
-      date: 2024, May. 28
+      date: 2024, Mai 28
       author: "Mitchell, A., Aletta, F. & Oberman, T."
       link: "https://www.justnoisepod.com/1438372/episodes/15151239-la-ville-sonore-avec-catherine-guastavino"
     - title: "Les effets néfastes du bruit sur la santé : les détails avec C. Srivastava"
@@ -136,6 +136,17 @@ article:
       date: 2021, Sept. 28
       author: "CBC"
       link: ""
+    - title: "Musikiosk Misters and more with Dan Steele and Edda Bild"
+      location: "The rest is just noise (podcast)"
+      date: 2021, Avr. 6
+      author: "Mitchell, A., Aletta, F. & Oberman, T."
+      link: "https://www.justnoisepod.com/1438372/episodes/8280957-ep-4-musikiosk-misters-and-more-with-dan-steele-and-edda-bild"
+    - title: "Absence de bruit pendant le couvre-feu"
+      location: "Tout un matin"
+      date: 2021, Jan. 14
+      author: "Radio-Canada"
+      link: "http://www.radio-canada.ca/util/postier/suggerer-go.asp?nID=4608635"
+      
       
 audio:
   title: "ENREGISTREMENTS SONORES"
