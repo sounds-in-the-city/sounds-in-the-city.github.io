@@ -1,45 +1,57 @@
-- title: "Sounds in the City"
-  id: 'sound_in_the_city'
+- title: "Plan with sound in mind"
+  id: 'Plan with sound in mind'
   data:
+    - title: "Why should you care about sound? An introduction for urban practitioners to making cities sound better"
+      description: "Notas CPAU 55, Salud, cuidad y arquitectura, 2024"
+      date: "2024"
+      link:
+        url: "https://static.cpau.org/.newsite/revista_notas/notas_55/bild-edda-et-al/Bild-et-al_EN.pdf"
+      authors:
+        - name: 'Edda Bild'
+        - name: 'Cynthia Tarlao'
+        - name: 'Catherine Guastavino'
+        - name: 'Caroline Stamm'
+    - title: "What should the city sound like? Why the pursuit of quiet isn’t working"
+      description: "Editorial for New Cities, 2020"
+      date: "2020"
+      link:
+        url: "https://newcities.org/the-big-picture-city-sound-like"
+      authors:
+        - name: 'Catherine Guastavino'
+        - name: 'Daniel Steele'
+ 
     - title: "Sounds in the City: bridging the gaps from research to practice through soundscape workshops"
-      description: "Journal of Urban Design, 201"
-      date: "2020-12-10"
+      description: "Journal of Urban Design, 25(5), 2020"
+      date: "2020"
       link:
         url: "https://www.tandfonline.com/doi/full/10.1080/13574809.2019.1699399"
-        name: "10.1080/13574809.2019.1699399"
       authors:
         - name: 'Daniel Steele'
         - name: 'Christine Kerrigan'
         - name: 'Catherine Guastavino'
+        
 
-    - title: "Researching soundscape conceptualizations, contexts, and information in urban planning and design practices through interviews"
-      description: "Association of European Schools of Planning (AESOP) Annual Congress <br> Lisbon, Portugal, July 11-17 2017 "
-      date: "2020-12-10"
-      link:
-        url: ""
-      authors:
-        - name: 'Daniel Steele'
-        - name: 'Catherine Guastavino'
-
-- title: "Musikiosk"
-  id: 'musikiosk'
+- title: "Visual project briefs"
+  id: 'project briefs'
   data:
-    - title: "Etudier les nuisances sonores pour améliorer la qualité de vie"
-      description: "Journal Métro"
-      date: "2020-12-10"
+    - title: "Accroître notre compréhension de l’environnement sonore"
+      description: "Étude Environnement sonore - synthesis of ListenUp MTL, 2021-2023"
+      date: "2020"
       link:
-        url: ""
+        url: "https://portail-m4s.s3.montreal.ca/pdf/environnement_sonore_drsp-mcgill_-_feuillet_methodo_collecte_donnees_0.pdf"
       authors:
-        - name: 'Machillot. C'
+        - name: 'Ville de Montréal'
+        - name: 'Direction régionale de santé publique'
+        - name: 'C. Guastavino & Sounds in the city'
+  
 
-- title: "Soundscape and Urban Planners"
-  id: "soundscape_and_urban_Planners"
+
+- title: "Scientific publications"
+  id: "Scientific publications"
   data:
-    - title: "Etudier les nuisances sonores pour améliorer la qualité de vie"
-      description: "Journal Métro"
+    - title: "Most up to date listing of our publications"
+      description: "Available on Google Scholar"
       date: "2020-12-10"
       link:
-        url: "https://www.tandfonline.com/doi/full/10.1080/13574809.2019.1699399"
-        name: "10.1080/13574809.2019.1699399"
-      authors:
-        - name: 'Machillot. C'
+        url: "https://scholar.google.com/citations?hl=en&user=--26DqgAAAAJ"
+      
