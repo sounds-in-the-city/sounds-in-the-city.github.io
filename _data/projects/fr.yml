@@ -1195,16 +1195,16 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   after:
     - image: '/assets/images/projects/City_Ditty/City_Ditty_Day_in_the_Park.jpg'
       credits: 'Richard Yanaky'
-      alt: ""
+      alt: "In-software image of a day in the park"
     - image: '/assets/images/projects/City_Ditty/City_Ditty_Food_Hall.jpg'
       credits: 'Richard Yanaky'
-      alt: ""
+      alt: "In-software image offood hall"
     - image: '/assets/images/projects/City_Ditty/City_Ditty_fountain_square.jpg'
       credits: 'Richard Yanaky'
-      alt: ""
+      alt: "In-software image of fountain square"
     - image: '/assets/images/projects/City_Ditty/City_Ditty_Busy_City.jpg'
       credits: 'Richard Yanaky'
-      alt: ""
+      alt: "In-software image of fountain square of busy city"
   brief: "Processus continu de design centré sur l'utilisateur·rice pour fournir des outils audio-visuels de planification sonore accessibles.
 <br><br>Conçu pour aider à sensibiliser au sonore grâce à des leçons interactives sur les principes et la conception des ambiances sonores.
 <br><br>Permet le prototypage rapide d’ambiances sonores par une simple manipulation des sources sonores, de l'heure de la journée et des conditions météorologiques.
@@ -1214,7 +1214,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
 "
   about: "Les simulateurs d'ambiances sonores permettent d'itérer rapidement à travers de nombreuses possibilités différentes afin de sensibiliser au sonore, de permettre le design exploratoire et d'aider les non-spécialistes du sonore à prendre des décisions informées. De plus, comme il s'agit de créer des expériences auditives positives pour les parties prenantes, il convient de mettre l'accent sur des expériences exploratoires rapides, informatives et amusantes afin d'encourager une participation active et effective qui maintienne l'intérêt au fil du temps.<br><br>Dans sa phase initiale, le projet a examiné comment les professionnelles en urbanisme (par exemple, les urbanistes, les concepteur·rices et les décideur·euses politiques) aimeraient interagir avec le sonore. Comme ils n'interagissaient pas beaucoup, voire pas du tout, un processus de design centré sur l'utilisateur·rice a été mis en place, avec une évaluation des besoins des professionnelles en urbanisme lors d'un atelier qui comprenait des groupes de discussion, des démonstrations techniques et un exercice collaboratif de conception d'ambiances sonores. Même si les professionnelles en urbanisme ne pouvaient pas dire directement ce dont iels avaient besoin, cette étude a permis d'identifier le type de fonctionnalités qu'un tel outil devrait offrir et la manière dont iels pourraient interagir avec les ambiances sonores virtuelles, en tant que non-spécialistes. Ces résultats ont contribué au développement de City Ditty, un simulateur sonore immersif qui permet le prototypage audio-visuel rapide d’ambiances sonores urbaines. Sa première étude d'utilisation a révélé que les gens pouvaient découvrir le concept d’ambiances sonores et prototyper leurs propres designs simples avec City Ditty, tout cela en moins d'une heure."
   participation: "Au cours de sa réalisation, le projet a exploré comment ces technologies émergentes pouvaient être utilisées pour aider un plus grand nombre de personnes à prendre en compte l'expérience auditive, de nouvelles façons utiles de représenter la nature dynamique des personnes dans une ville, et comment de tels outils pourraient s'intégrer au flux de travail existant des professionnelles en urbanisme. Aujourd'hui, le projet est utilisé en collaboration avec la ville de Montréal pour aider à auraliser les problèmes liés au sonore et à simuler de potentielles interventions sonores. Il est également utilisé par d'autres doctorants pour la conception et la collecte des données pour leurs propres expériences, avec de futurs projets et de travaux en cours de développement.
-<br><br>Souhaitez-vous utiliser City Ditty pour un projet urbain ? Pour un projet de recherche ? N'hésitez pas à nous contacter directement (coordonnées ci-dessous)."
+<br><br>Souhaitez-vous utiliser City Ditty pour un projet urbain ? Pour un projet de recherche ? Contactez-nous!"
   contact_info: Richard Yanaky ou Catherine Guastavino
   links:
     - url: 'https://www.youtube.com/playlist?list=PLIlbMTlgR90J2stZScpJ-oqi1_5Hj4RzY  '
@@ -1232,7 +1232,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
     - url: ""
       name: "L’article suivant, présenté à Internoise 2023, explique comment les technologies émergentes peuvent contribuer à défier le statu quo... à condition que nous soyons mieux soutenus :
       , R., Grazioli, G., Zhang, Y.-Y., & Guastavino, C. (2023). Exploring the use of soundscape sketchpads with professionals. INTER-NOISE and NOISE-CON Congress and Conference Proceedings, Chiba, Japan, August 20-23, 2023.<a href='https://www.researchgate.net/publication/374750772_Exploring_the_use_of_soundscape_sketchpads_with_professionals'>Link to paper</a><br><br>"
-    - url: ""
+    - url: "https://www.taylorfrancis.com/chapters/edit/10.1201/9781003490678-8/sound-based-interaction-richard-yanaky-charles-reimer-val%C3%A9rian-fraisse-marcelo-wanderley-catherine-guastavino "
       name: "Un chapitre sur l'interaction homme-machine (IHM) qui traite de l'utilisation de simulateurs d’ambiances sonores, d'installations sonores interactives et d'instruments de musique numériques (DMI).
       Yanaky, R., Reimer, P. J. C., Fraisse, V., Wanderley, M., & Guastavino, C. (2024). Sound-Based Interaction. In C. Stephanidis & G. Salvendy (Eds.),<i>Human Computer Interaction: Interaction Technologies and Techniques</i>. CRC Press."
     - url: "https://hal.science/hal-02901211/"
