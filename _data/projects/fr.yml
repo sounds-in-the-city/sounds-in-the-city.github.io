@@ -1191,7 +1191,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   before:
    - image: '/assets/images/projects/City_Ditty/City_Ditty_Cafe.jpg'
      credits: 'Richard Yanaky'
-     alt: 
+     alt: "Café extérieur"
   after:
     - image: '/assets/images/projects/City_Ditty/City_Ditty_Day_in_the_Park.jpg'
       credits: 'Richard Yanaky'
