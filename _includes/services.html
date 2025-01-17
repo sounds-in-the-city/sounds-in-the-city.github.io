@@ -3,18 +3,6 @@
     <h1 class="heading title">{{t.title}}</h1>
     <p class="description">{{t.description}}</p>
   </div>
-  <div class="service-wrapper">
-    <div class="container">
-      <div class="services">
-        {% for service in t.list %}
-        <div class="service">
-          <img src="{{service.image}}" alt="{{service.alt}}" />
-          <p>{{service.info}}</p>
-        </div>
-        {%endfor%}
-      </div>
-    </div>
-  </div>
   <div id="banner">
     <div class="logo-text services black">
       <h4 class="button">{{t.difference}}</h4>
