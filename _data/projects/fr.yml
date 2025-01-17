@@ -1195,16 +1195,16 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   after:
     - image: '/assets/images/projects/City_Ditty/City_Ditty_Day_in_the_Park.jpg'
       credits: 'Richard Yanaky'
-      alt: "In-software image of a day in the park"
+      alt: "Au parc"
     - image: '/assets/images/projects/City_Ditty/City_Ditty_Food_Hall.jpg'
       credits: 'Richard Yanaky'
-      alt: "In-software image offood hall"
+      alt: "Espace public"
     - image: '/assets/images/projects/City_Ditty/City_Ditty_fountain_square.jpg'
       credits: 'Richard Yanaky'
-      alt: "In-software image of fountain square"
+      alt: "Près d'une foutaine"
     - image: '/assets/images/projects/City_Ditty/City_Ditty_Busy_City.jpg'
       credits: 'Richard Yanaky'
-      alt: "In-software image of fountain square of busy city"
+      alt: "Petite place publique"
   brief: "Processus continu de design centré sur l'utilisateur·rice pour fournir des outils audio-visuels de planification sonore accessibles.
 <br><br>Conçu pour aider à sensibiliser au sonore grâce à des leçons interactives sur les principes et la conception des ambiances sonores.
 <br><br>Permet le prototypage rapide d’ambiances sonores par une simple manipulation des sources sonores, de l'heure de la journée et des conditions météorologiques.

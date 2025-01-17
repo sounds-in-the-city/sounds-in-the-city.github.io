@@ -1177,16 +1177,16 @@
   after:
     - image: '/assets/images/projects/City_Ditty/City_Ditty_Day_in_the_Park.jpg'
       credits: 'Richard Yanaky'
-      alt: "In software image of City Ditty Day in the Park"
+      alt: "City Ditty Day in the Park"
     - image: '/assets/images/projects/City_Ditty/City_Ditty_Food_Hall.jpg'
       credits: 'Richard Yanaky'
-      alt: "In software image of City Ditty Food Hall"
+      alt: "City Ditty Food Hall"
     - image: '/assets/images/projects/City_Ditty/City_Ditty_Fountain_Square.jpg'
       credits: 'Richard Yanaky'
-      alt: "In software image of City Ditty fountain square"
+      alt: "City Ditty fountain square"
     - image: '/assets/images/projects/City_Ditty/City_Ditty_Busy_City.jpg'
       credits: 'Richard Yanaky'
-      alt: "In software image of City Ditty Busy City"
+      alt: "City Ditty Busy City"
   brief: "An ongoing user-centered design process to provide accessible audio-visual sound planning tools.<br<br>Designed to help raise sound-awareness through interactive lessons on soundscape principles and design.<br<br>Supports rapid prototyping of soundscapes through simple manipulation of sound sources, time of day, weather conditions.<br<br>Provides different methods visualization and auralization for sound.<br<br>Prioritizes ease of use for non-sound experts.<br<br>Includes built-in data collection methods including questionnaires, user-action logs (both what was interacted with, and user pathway tracking)."
   about: "Soundscape simulators make it possible to quickly iterate through many different possibilities to both raise sound-awareness, support exploratory designs, and help non-sound experts make informed decisions. Furthermore, as the focus is on creating positive auditory experiences amongst stakeholders, an emphasis should be placed on fast, informative, and fun exploratory experiences to encourage active and meaningful participation that retains interest overtime.<br><br>In its earliest phase, it examined how Professionals of the Built Environment (PBEs) (e.g. Urban planners, designers, and policy makers) would like to interact with sound. As they current didn’t interact with sound much if at all, a user-centered design process began, with a user needs assessment with PBEs as part of a workshop which included focus groups, tech demos, and a collaborative soundscape design exercise. Although PBEs could not directly say what they needed, this study helped identify what kind of functionalities such a tool would have, and how they could interact with virtual soundscapes, as non-experts.  These results funneled into the development of City Ditty – an immersive soundscape that supports the rapid audio-visual prototyping of urban soundscapes. Its first usability study found that people could learn about soundscapes and prototype their own simple designs with City Ditty, <i>all in under an hour</i>."
   participation: "As the project continued, it further explored how such emerging technologies could be used to support more people in considering the auditory experience, new and useful ways to model the dynamic nature of people in a city, and how such tools could fit into a PBEs existing workflow. Today, it is being put into use in collaboration of cities the City of Montreal to help auralize existing sound-related issues and help simulate potential sound interventions. It is also being used by other PhD students for their own experiment design and data collection, with future experiments and works in development.<br><br>Are you interested in using City Ditty for a city project? A fellow researcher interested in using City Ditty for a research project?"
