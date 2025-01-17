@@ -388,19 +388,19 @@ contact:
   title: "Contact"
   telephone: "Telephone"
   team:
-    title: "TEAM MEMBERS"
+    title: "Who to contact"
     members:
       - name: "Catherine Guastavino"
         role: "Principal Investigator"
         email: "catherine.guastavino@mcgill.ca"
         phone: "514-398-1709"
-      - name: "Daniel Steele"
-        role: "Lead Researcher"
-        email: "daniel.steele@mail.mcgill.ca"
+      - name: ""
+        role: "For information"
+        email: "contact@sounds-in-the-city.org"
   contact:
-    title: "Noise Regulation Database"
+    title: "Where to find us"
     links:
-      - name: 'To contribute to the noise regulation database, please send your documentation to<br> <a href="mailto:catherine.guastavino@mcgill.ca">catherine.guastavino@mcgill.ca</a>'
+      - name: 'McGill University <br> 3460 McTavish, Peterson Hall, rm. 204 <br>Montréal, QC, Canada<br>H3A 0E6'
   address:
     title: "MAILING ADDRESS"
     location:
