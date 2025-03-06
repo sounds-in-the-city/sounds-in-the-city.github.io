@@ -53,11 +53,11 @@ soundscape:
       credits: "Catherine Guastavino, 2020"
       album: "Recorded at park Palomino-Brind’Amour, Plateau Mont-Royal"
 
-    - url: "/assets/audios/SoundFile4_SoundscapePage_ConstructionTraffic_trimmed.mp3"
+    - url: "/assets/audios/QDS2021_S4_R1.wav"
       id: "audio-3"
-      name: "Construction and traffic noise"
-      credits: "Valérian. Fraisse, 2019."
-      album: "Recorded at Fleurs-de-Macadam, Plateau Mont-Royal"
+      name: "Latin-American dance class : outdoor community activity"
+      credits: "Nicola Di Croce, 2021."
+      album: "Place Emilie-Gamelin, Montréal."
 
   p2:
     - url: "/assets/audios/SoundFile1_SoundscapePage_TamTamMontRoyal.mp3"
