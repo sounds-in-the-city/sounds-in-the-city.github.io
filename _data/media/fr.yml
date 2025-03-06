@@ -30,12 +30,11 @@ video:
       description: "Entrevue avec L.Loreux"
       date: "2015"
 
-article:
-  title: "PRESSE & RADIO"
+press:
+  title: "PRESSE"
   read: "LIEN"
   author: "AUTEUR"
   data:
-   
     - title: "Des sons pour combattre le bruit urbain"
       location: "La Presse"
       date: 2024, Dec. 1
@@ -69,48 +68,50 @@ article:
     - title: "Comment peut-on améliorer son environnement sonore?"
       location: France-Ouest
       date: 2022, Nov. 13
-      author: 'Guillet A.'
+      author: "Guillet A."
       link: "https://www.ouest-france.fr/sante/psycho/bien-etre-comment-peut-on-ameliorer-son-environnement-sonore-11154866-6126-11ed-91b7-cf0f4dd6b4fa"
     - title: "Le son, cet oublié des villes"
       location: Le Devoir
       date: 2022, Sept. 16
-      author: 'Provost A.M.'
+      author: "Provost A.M."
       link: "https://www.ledevoir.com/societe/transports-urbanisme/756802/le-son-cet-oublie-des-villes"
     - title: "What shaking a container can teach us about sound?"
       location: McGill Newsroom
       date: 2022, Mai 24
-      author: 'McGill University'
+      author: "McGill University"
       link: "https://www.mcgill.ca/newsroom/channels/news/research-briefs-origami-inspired-design-and-why-mice-fear-bananas-333903 - what_shaking"
     - title: "Noise observatory still necessary, still in the works, councillors say"
       location: Montreal Gazette
       date: 2021, Oct. 3
-      author: 'Gyulai, L'
+      author: "Gyulai, L"
       link: "https://montrealgazette.com/news/local-news/noise-observatory-still-necessary-still-in-the-works-councillors-say"
     - title: "Montreal needs noise observatory, experts say. Montreal Gazette"
       location: Montreal Gazette
       date: 2021, Aug. 2
-      author: 'Gyulai, L'
+      author: "Gyulai, L"
       link: "https://montrealgazette.com/news/local-news/montreal-needs-noise-observatory-experts-say"
     - title: "Sound as a resource: with Catherine Guastavino"
       location: BYCS perspective
       date: 2021, Mar. 1
-      author: 'BYCS'
+      author: "BYCS"
       link: "https://bycs.org/sound-as-a-resource-with-catherine-guastavino/"
 
     - title: Etudier les nuisances sonores pour améliorer la qualité de vie
       location: Journal Métro
       date: 2020, December 10
-      author: 'Machillot. C'
-      link: 'https://journalmetro.com/local/le-plateau-mont-royal/2587752/etudier-les-nuisances-sonores-pour-ameliorer-la-qualite-de-vie/'
+      author: "Machillot. C"
+      link: "https://journalmetro.com/local/le-plateau-mont-royal/2587752/etudier-les-nuisances-sonores-pour-ameliorer-la-qualite-de-vie/"
     - title: "L’après-COVID-19: tirer les leçons de ce printemps silencieux"
       location: "Ici Radio-Canada"
       date: 2020, Mai 30
       author: "Leblanc, E."
       link: "http://www.radio-canada.ca/util/postier/suggerer-go.asp?nID=4523621"
-      
-      
-      
-      
+
+radio:
+  title: "RADIO"
+  read: "ÉCOUTER"
+  author: "AUTEUR"
+  data:
     - title: "Des sons agréables pour contrer la pollution sonore"
       location: "Le 15-18"
       date: 2024, Dec. 4
@@ -171,7 +172,7 @@ article:
       date: 2020, Mai 7
       author: "Radio-Canada"
       link: "http://www.radio-canada.ca/util/postier/suggerer-go.asp?nID=4511818"
-      
+
 audio:
   title: "ENREGISTREMENTS SONORES"
   data:

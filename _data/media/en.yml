@@ -30,12 +30,11 @@ video:
       description: "Interview with L. Loreux"
       date: "2015"
 
-article:
-  title: "PRESS & RADIO "
-  read: "LINK"
+press:
+  title: "PRESS"
+  read: "READ"
   author: "AUTHOR"
   data:
-   
     - title: "Des sons pour combattre le bruit urbain"
       location: "La Presse"
       date: 2024, Dec. 1
@@ -106,7 +105,12 @@ article:
       date: 2020, May 30
       author: "Leblanc, E."
       link: "http://www.radio-canada.ca/util/postier/suggerer-go.asp?nID=4523621"
-      
+
+radio:
+  title: "RADIO"
+  read: "LISTEN"
+  author: "AUTHOR"
+  data:
     - title: "Des sons agréables pour contrer la pollution sonore"
       location: "Le 15-18"
       date: 2024, Dec. 4
@@ -167,8 +171,8 @@ article:
       date: 2020, May 7
       author: "Radio-Canada"
       link: "http://www.radio-canada.ca/util/postier/suggerer-go.asp?nID=4511818"
-      
-      
+
+
 audio:
   title: "FIELD RECORDINGS"
   data:

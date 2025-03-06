@@ -32,14 +32,15 @@
         </div>
       </div>
     </div>
+    
     <div class="accordion">
-      <button class="acc-header button" data-target="article_accordion">
+      <button class="acc-header button" data-target="press_accordion">
         {% assign lang = page.lang %} {% assign artic =
-        site.data.media[lang].article %}
+        site.data.media[lang].press %}
         <span class="label container"> {{artic.title}} </span>
         <span class="icon"></span>
       </button>
-      <div id="article_accordion" class="acc-content">
+      <div id="press_accordion" class="acc-content">
         <div class="container">
           <div class="articles">
             {% assign articles = artic.data %} 
@@ -62,6 +63,43 @@
         </div>
       </div>
     </div>
+    
+    
+    
+    <div class="accordion">
+      <button class="acc-header button" data-target="radio_accordion">
+        {% assign lang = page.lang %} {% assign artic =
+        site.data.media[lang].radio %}
+        <span class="label container"> {{artic.title}} </span>
+        <span class="icon"></span>
+      </button>
+      <div id="radio_accordion" class="acc-content">
+        <div class="container">
+          <div class="articles">
+            {% assign articles = artic.data %}
+            {% for article in articles %}
+            <div class="article-card">
+              <div class="content">
+                <h3 class="button">{{article.title}}</h3>
+                <p>{{article.location}}, {{article.date}}</p>
+              </div>
+              <div class="info">
+                <div>
+                  <h4 class="button">{{artic.author}}</h4>
+                  <p>{{article.author}}</p>
+                </div>
+                <a href="{{article.link}}" target="_blank" class="readmore button">{{artic.read}}</a>
+              </div>
+            </div>
+            {%endfor%}
+          </div>
+        </div>
+      </div>
+    </div>
+
+    
+    
+    
     <div class="accordion">
       <button class="acc-header button" data-target="audio_accordion">
         {% assign lang = page.lang %} {% assign title =

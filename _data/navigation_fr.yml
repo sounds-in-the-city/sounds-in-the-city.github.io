@@ -7,10 +7,13 @@
 - title: PROJETS
   url: "/projects/"
 
+- title: SERVICES
+  url: "/services"
+
 - title: MÉDIAS
   url: "/media"
   submenu:
-    - title: Articles
+    - title: Publications
       url: "/papers"
 
     - title: Blog (archives)
@@ -26,8 +29,6 @@
     - title: Partenaires & Financements
       url: "/partners"
 
-    - title: Services
-      url: "/services"
 
     - title: Contact
       url: "/contact"
