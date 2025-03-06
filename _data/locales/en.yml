@@ -223,7 +223,7 @@ blogs:
   posted: "POSTED"
   discover_blog: "DISCOVER THE BLOG"
   when: 'WHEN'
-  for_details: "For more information (French only)"
+  for_details: "For more information"
 
 events:
   title: "EVENTS ARCHIVES"
@@ -293,7 +293,7 @@ partners:
         url: "https://frq.gouv.qc.ca/"
 services:
   title: "Services"
-  description: "Let us transform your sound-related questions into evidence-based action plans! We have experience in collaborative research projects with different funding agencies, but also industry contracts and we’re open to consulting opportunities.<br><br><strong>We have a history of turning ideas into a concrete process with viable outcomes</strong>. So, whether you are a planning or design firm, an academic or health institution, a municipality, a non-governmental entity or a corporate setting, we can help you:"
+  description: "Let us transform your sound-related questions into evidence-based action plans! <br>We have experience in collaborative research projects with different funding agencies, but also industry contracts and we’re open to consulting opportunities.<br><br><strong>We have a history of turning ideas into a concrete process with viable outcomes</strong>.<br> So, whether you are a planning or design firm, an academic or health institution, a municipality, a non-governmental entity or a corporate setting, we can help you :"
   list:
     - info: "Articulate your sound-related needs and expectations, and integrating them into a broader plan for your products, services and spaces"
       image: "/assets/images/icons/files-contained.svg"
@@ -318,8 +318,8 @@ services:
     - info: "Reinforce the sonic identity of heritage places"
       image: "/assets/images/icons/building-contained.svg"
       alt: "service-6"
-  difference: "DIFFERENT PERSPECTIVES ON"
-  sound: "SOUND"
+  difference: "Enhance the quality of experience through"
+  sound: "sound"
   info: "Our projects rely on participatory approaches to the design of built environment and products, integrating different perspectives on sound from a wide range of stakeholders.  "
   accordions:
     - name: "Research methods"
@@ -334,14 +334,9 @@ services:
     - name: "Workshops"
       id: "workshop"
       points:
-        - name: "With stakeholders e.g.
-                    <br>With design professionals
-                    <br>With planning professionals
-                    <br>With policy makers
-                    <br>With sound artists
-                    <br>With general public"
-        - name: "Using tangible design aids e.g. worksheets"
-        - name: "Using immersive / embodied methods e.g. VR simulation, soundwalks,listening exercises"
+        - name: "With design and planning professionals, policy makers, sound artists and the general public"
+        - name: "Using tangible design aids e.g. co-design exercises, worksheets"
+        - name: "Using immersive / embodied methods e.g. VR simulation, soundwalks, listening exercises"
         - name: "Using innovative approaches e.g. empathy-building exercises"
     - name: "Knowledge mobilization"
       id: "knowledge"
@@ -355,34 +350,36 @@ services:
       points:
         - name: "Collaboration with sound artists"
         - name: "Sound art in public / private spaces"
+        - name: "Animating public spaces through sound"
     - name: "Outreach / sound awareness"
       id: "awareness"
       points:
         - name: "Soundwalks"
         - name: "Public lectures"
         - name: Workshops (see above)
-        - name: Sound ecology courses (for urban professionals)
-    - name: "See our list of projects. Other examples including:"
-      id: "examples"
-      points:
-        - name: "Design of ‘healthy working environments’ (indoors and outdoors) for you and your employees"
-        - name: "Animation of public spaces through sound"
+        - name: Soundscape / sound ecology courses (for urban professionals)
+        - name: Designing sound aware environments (indoors and outdoors)
+
+
   slides:
-    - title: "COVID-19 and c"
-      description: "Getting a taste of the quiet we thought we wanted"
-      image: "/assets/images/slides/slide1.png"
-    - title: "COVID-19 and c"
-      description: "Getting a taste of the quiet we thought we wanted"
-      image: "/assets/images/slides/slide1.png"
-    - title: "COVID-19 and c"
-      description: "Getting a taste of the quiet we thought we wanted"
-      image: "/assets/images/slides/slide1.png"
-    - title: "COVID-19 and c"
-      description: "Getting a taste of the quiet we thought we wanted"
-      image: "/assets/images/slides/slide1.png"
-    - title: "COVID-19 and c"
-      description: "Getting a taste of the quiet we thought we wanted"
-      image: "/assets/images/slides/slide1.png"
+    - title: "Design and plan with sound in mind"
+      description: "Articulate your sound-related needs and expectations, and integrating them into a broader plan"
+      image: "/assets/images/projects/Niches_acoustiques/collab_Niches_Acoustiques.png"
+    - title: "Reinforce the sonic identity of places"
+      description: "Certain sounds can help us relax"
+      image: "/assets/images/projects/Fleurs_de_Macadam_misters/DSC_0319.jpeg"
+    - title: "Animate spaces through sound"
+      description: "Sound contributes to vitality and attractivity"
+      image: "/assets/images/projects/recreation_v_residence/IMG_1848_QdS_CreditsFXFeron.JPG"
+    - title: "Facilitate communication across stakeholders"
+      description: "Improve sonic cohabitation"
+      image: "/assets/images/soundscape principles/7-soundwalk-creditChristineKerrigan.jpg"
+    - title: "Participatory workshop"
+      description: "Rethinking sound together"
+      image: "/assets/images/projects/Engaging_professionals/DSC_0204_.jpg"
+    - title: "Soundwalks"
+      description: "Listening to our environnement"
+      image: "/assets/images/projects/Soundwalks/soundwalks2018_CTa.jpeg"
 
 contact:
   title: "Contact"

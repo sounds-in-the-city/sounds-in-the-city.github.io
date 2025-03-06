@@ -32,7 +32,6 @@ about:
   title: "À propos de nous"
   back: Back
 
-
 soundscape:
   title: Le sonore, c’est important?
   description: "Le bruit est <strong>un enjeu majeur</strong> dans nos milieux de vie, généralement abordé sous l’angle des nuisances et des niveaux de bruit. <br><br> Mais tout n’est pas qu’une question de bruit ! Prendre en compte l’expérience sonore participe à améliorer nos milieux de vies dans une perspective de santé durable. Prendre en compte le sonore peut rendre nos villes plus favorables à la santé. Mais comment faire ? Voici quelques principes pour commencer. "
@@ -107,64 +106,64 @@ soundscape:
   cards:
     list1:
       - id: 1
-        img_src: '/assets/images/soundscape principles/1-fountains-creditChristineKerrigan.JPG'
-        subtitle: 'Le sonore n’est pas que du bruit'
-        description: 'C’est bien plus ! Si certains sons peuvent déranger ou distraire, d’autres aident à se divertir, s’orienter, et/ou se ressourcer. Le sonore peut être considéré comme une ressource, pas seulement comme une nuisance.'
+        img_src: "/assets/images/soundscape principles/1-fountains-creditChristineKerrigan.JPG"
+        subtitle: "Le sonore n’est pas que du bruit"
+        description: "C’est bien plus ! Si certains sons peuvent déranger ou distraire, d’autres aident à se divertir, s’orienter, et/ou se ressourcer. Le sonore peut être considéré comme une ressource, pas seulement comme une nuisance."
 
       - id: 2
-        img_src: '/assets/images/soundscape principles/2-traffic-creditDanielSteele.png'
-        subtitle: 'Le sonore n’existe pas en vase clos'
-        description: 'Le sonore est au cœur de nos expériences sensibles, qui sont façonnées par un ensemble de facteurs, tant personnels (par ex. autres sens, attentes) que contextuels (par ex. culture, environnement bâti). Le sonore doit être considéré comme partie intégrante de la fabrique urbaine. Pensons, par exemple, à la manière dont les rues partagées façonnent l’environnement sonore.'
+        img_src: "/assets/images/soundscape principles/2-traffic-creditDanielSteele.png"
+        subtitle: "Le sonore n’existe pas en vase clos"
+        description: "Le sonore est au cœur de nos expériences sensibles, qui sont façonnées par un ensemble de facteurs, tant personnels (par ex. autres sens, attentes) que contextuels (par ex. culture, environnement bâti). Le sonore doit être considéré comme partie intégrante de la fabrique urbaine. Pensons, par exemple, à la manière dont les rues partagées façonnent l’environnement sonore."
 
       - id: 3
-        img_src: '/assets/images/soundscape principles/3-tamtams-creditMatiasGarabedian.jpg'
-        subtitle: 'Nous vivons tou·tes le sonore différemment'
-        description: 'La manière dont nous produisons et percevons le sonore dépend de notre vécu individuel, social et culturel. '
+        img_src: "/assets/images/soundscape principles/3-tamtams-creditMatiasGarabedian.jpg"
+        subtitle: "Nous vivons tou·tes le sonore différemment"
+        description: "La manière dont nous produisons et percevons le sonore dépend de notre vécu individuel, social et culturel. "
 
       - id: 4
-        img_src: '/assets/images/soundscape principles/4-measurements-creditEddaBild.jpg'
-        subtitle: 'Les niveaux sonores ne disent pas tout'
-        description: 'L’exposition au bruit, même à faible niveau, peut affecter notre santé et bien souvent sans que l’on s’en rende compte. Au-delà du niveau sonore, d’autres propriétés physiques (par ex. évolution temporelle, contenu spectral) affectent notre perception. Plus encore, la signification attribuée aux sons et aux sources qui les produisent jouent un rôle primordial dans notre expérience. À niveau égal, la musique n’est pas ressentie comme le bruit routier. '
+        img_src: "/assets/images/soundscape principles/4-measurements-creditEddaBild.jpg"
+        subtitle: "Les niveaux sonores ne disent pas tout"
+        description: "L’exposition au bruit, même à faible niveau, peut affecter notre santé et bien souvent sans que l’on s’en rende compte. Au-delà du niveau sonore, d’autres propriétés physiques (par ex. évolution temporelle, contenu spectral) affectent notre perception. Plus encore, la signification attribuée aux sons et aux sources qui les produisent jouent un rôle primordial dans notre expérience. À niveau égal, la musique n’est pas ressentie comme le bruit routier. "
 
       - id: 5
-        img_src: '/assets/images/soundscape principles/5-guitar-creditCynthiaTarlao.jpeg'
-        subtitle: 'Le sonore peut contribuer à l’(in)justice environnementale'
-        description: 'Les groupes vulnérables sont souvent exposés à des niveaux de bruit plus élevés et ont moins accès à des ambiances sonores de qualité.'
+        img_src: "/assets/images/soundscape principles/5-guitar-creditCynthiaTarlao.jpeg"
+        subtitle: "Le sonore peut contribuer à l’(in)justice environnementale"
+        description: "Les groupes vulnérables sont souvent exposés à des niveaux de bruit plus élevés et ont moins accès à des ambiances sonores de qualité."
 
     list2:
       - id: 6
-        img_src: '/assets/images/soundscape principles/6-mockup-creditPetersenStudio.png'
-        subtitle: 'Les ambiances sonores ne sont pas figées'
-        description: 'Les ambiances sonores évoluent dans le temps et l’espace, selon les usages et les personnes. Imaginez les sons autour de vous à différentes périodes du jour, selon les saisons, dans différents quartiers.'
+        img_src: "/assets/images/soundscape principles/6-mockup-creditPetersenStudio.png"
+        subtitle: "Les ambiances sonores ne sont pas figées"
+        description: "Les ambiances sonores évoluent dans le temps et l’espace, selon les usages et les personnes. Imaginez les sons autour de vous à différentes périodes du jour, selon les saisons, dans différents quartiers."
 
       - id: 7
-        img_src: '/assets/images/soundscape principles/7-soundwalk-creditChristineKerrigan.jpg'
-        subtitle: 'Le sonore reflète la vie'
-        description: 'La ville vibre au rythme des sons qui l’animent. Pouvez-vous imaginer un festival ou des terrasses de restaurant sans en entendre l’effervescence ? Une promenade au parc sans le chant des oiseaux ? Le silence n’est pas toujours le but à atteindre. '
+        img_src: "/assets/images/soundscape principles/7-soundwalk-creditChristineKerrigan.jpg"
+        subtitle: "Le sonore reflète la vie"
+        description: "La ville vibre au rythme des sons qui l’animent. Pouvez-vous imaginer un festival ou des terrasses de restaurant sans en entendre l’effervescence ? Une promenade au parc sans le chant des oiseaux ? Le silence n’est pas toujours le but à atteindre. "
 
       - id: 8
-        img_src: '/assets/images/soundscape principles/8-Lyon-creditRomainBehar.jpg'
-        subtitle: 'Le dialogue est essentiel'
-        description: 'La sensibilisation au sonore est un élément clé. Nous ne sommes pas seulement exposés passivement à l’environnement sonore qui nous entoure, mais nous contribuons activement à le façonner. On pense souvent au bruit des autres, mais c’est une responsabilité partagée. Pensons à nos conversations téléphoniques dans les transports, est-ce que les autres passagers nous entendent ? Ou encore, avez-vous déjà été dérangé·e par des bruits de construction avoisinants sans en avoir été prévenu·e ? '
+        img_src: "/assets/images/soundscape principles/8-Lyon-creditRomainBehar.jpg"
+        subtitle: "Le dialogue est essentiel"
+        description: "La sensibilisation au sonore est un élément clé. Nous ne sommes pas seulement exposés passivement à l’environnement sonore qui nous entoure, mais nous contribuons activement à le façonner. On pense souvent au bruit des autres, mais c’est une responsabilité partagée. Pensons à nos conversations téléphoniques dans les transports, est-ce que les autres passagers nous entendent ? Ou encore, avez-vous déjà été dérangé·e par des bruits de construction avoisinants sans en avoir été prévenu·e ? "
 
       - id: 9
-        img_src: '/assets/images/soundscape principles/9-plane-creditUSNationalArchivesandRecordsAdministration.jpg'
-        subtitle: 'Le sonore favorise ou entrave nos activités et notre ressenti'
-        description: 'Que faites-vous lorsque vous ne pouvez pas entendre votre interlocuteur dans un restaurant ? Inversement, vous sentez-vous revigoré·e lors d’un concert ou détendu·e en vous promenant au bord de l’eau ?'
+        img_src: "/assets/images/soundscape principles/9-plane-creditUSNationalArchivesandRecordsAdministration.jpg"
+        subtitle: "Le sonore favorise ou entrave nos activités et notre ressenti"
+        description: "Que faites-vous lorsque vous ne pouvez pas entendre votre interlocuteur dans un restaurant ? Inversement, vous sentez-vous revigoré·e lors d’un concert ou détendu·e en vous promenant au bord de l’eau ?"
 
       - id: 10
-        img_src: '/assets/images/soundscape principles/10-festival-creditChristineKerrigan.JPG'
-        subtitle: 'Le sonore contribue au sentiment d’appartenance'
-        description: 'Pensons aux sonorités importantes pour notre communauté, aux repères sonores de votre ville (par ex. vendeurs ambulants, cloches de de vaches). Le sonore peut contribuer à renforcer la vocation et notre attachement aux lieux et aux quartiers.'
+        img_src: "/assets/images/soundscape principles/10-festival-creditChristineKerrigan.JPG"
+        subtitle: "Le sonore contribue au sentiment d’appartenance"
+        description: "Pensons aux sonorités importantes pour notre communauté, aux repères sonores de votre ville (par ex. vendeurs ambulants, cloches de de vaches). Le sonore peut contribuer à renforcer la vocation et notre attachement aux lieux et aux quartiers."
   steps:
-  - id: 1
-    title: 'Une personne sur 5 est fortement dérangée par le bruit au Québec.'
-  - id: 2
-    title: 'Le bruit est le 2ième facteur de risque environnemental (derrière la pollution de l’air).'
-  - id: 3
-    title: 'Une ambiance sonore de qualité peut réduire le stress.'
-  - id: 4
-    title: 'Le sonore peut animer l’espace public.'
+    - id: 1
+      title: "Une personne sur 5 est fortement dérangée par le bruit au Québec."
+    - id: 2
+      title: "Le bruit est le 2ième facteur de risque environnemental (derrière la pollution de l’air)."
+    - id: 3
+      title: "Une ambiance sonore de qualité peut réduire le stress."
+    - id: 4
+      title: "Le sonore peut animer l’espace public."
 
 projects:
   title: "LISTE DE PROJETS"
@@ -187,7 +186,6 @@ projects:
   discover_project: "DÉCOUVREZ LE PROJET"
   author: "auteur"
 
-
 media:
   title: "MEDIA"
 
@@ -201,45 +199,45 @@ blogs:
   title: "BLOG ARCHIVES"
   placeholder: "Recherche"
   description: "This blog has French and English content and may not be available in both languages."
-  where: 'WHERE'
-  tags: "TAGS"
-  fundings: "FUNDINGS"
-  collaborators: "COLLABORATORS"
-  previous: "Previous"
-  next: "NEXT"
-  about_this_project: "ABOUT THE PROJECT"
-  links: "LINKS"
+  where: "Où"
+  tags: "MOTS CLEFS"
+  fundings: "FINANCEMEENT"
+  collaborators: "COLLABORATEURS"
+  previous: "Précédent"
+  next: "Suivant"
+  about_this_project: "À propos"
+  links: "Liens"
   media_coverage: "For media coverage on the project, check these links"
   academic_output: "For the academic output, consult these publications and links"
   after: "AFTER"
   before: "BEFORE"
   year: "YEAR"
   credits: "Credits"
-  author: "author"
-  posted: "POSTED"
+  author: "Auteur"
+  posted: "Publié"
   discover_blog: "DÉCOUVREZ LE BLOGUE"
-  when: 'WHEN'
-  for_details: "For more information (French only)"
-
+  when: "Date"
+  for_details: "Pour plus d'informations"
 
 events:
   title: "ARCHIVES DES ÉVÉNEMENTS"
   placeholder: "Recherche"
   description: "Ceci est une archive des événements précédents de Sounds in the City."
-  time: 'TIME'
-  location: 'LOCATION'
-  language: 'LANGUAGE'
-  info: 'Info'
+  time: "TIME"
+  location: "LOCATION"
+  language: "LANGUAGE"
+  info: "Info"
 
 services:
   title: "Services"
-  description: "Laissez-nous transformer vos questions liées au sonore en plans d'action fondés sur des données probantes ! Nous avons une vaste expérience de recherche collaboratives avec différents partenaires, mais aussi de contrats industriels, et nous sommes ouverts aux opportunités de consultation.<br><br><strong>Nous pouvons vous aider à transformer des idées en lien avec le sonore en solutions innovantes et viables.</strong>. Que vous soyez une companie de design, une institution publique, une municipalité, une entité non-gouvernementale ou une organisation d'entreprise, nous pouvons vous aider."
+  description: "Laissez-nous transformer vos questions liées au sonore en plans d'action fondés sur des données probantes !  Nous avons une vaste expérience de recherche collaboratives et contrats industriels, et nous sommes ouverts à la consultation.<br><br><strong>Nous pouvons vous aider à transformer vos idées et enjeux sonores en solutions innovantes.</strong> <br> Que vous soyez une companie de design, une institution publique, une municipalité, une entité non-gouvernementale ou une organisation d'entreprise, nous pouvons vous aider à :"
+
   list:
     - info: "Exprimer vos besoins et attentes liés au son et les intégrer dans un plan d'action plus large"
       image: "/assets/images/icons/files-contained.svg"
       alt: "service-1"
 
-    - info: "Identifier et améliorer les apsects liés au son dans vos produits, services ou espaces"
+    - info: "Identifier et améliorer les aspects liés au son dans vos produits, services ou espaces"
       image: "/assets/images/icons/eye-contained.svg"
       alt: "service-2"
 
@@ -260,17 +258,18 @@ services:
       alt: "service-6"
   difference: "AMELIORER L'EXPERIENCE EN CONSIDERANT LE"
   sound: "SON"
-  info: "Nos projets reposent sur des approches participatives de la conception de l'environnement bâti et des produits, intégrant différentes perspectives sur le son provenant d'un large éventail de parties prenantes.."
+
+  info: "Nos projets reposent sur des approches participatives de la conception de l'environnement bâti et des produits, intégrant différentes perspectives sur le son provenant d'un large éventail de parties prenantes."
   accordions:
     - name: "Méthodes de recherche"
       id: "recherche"
       points:
-        - name: "AApproches de recherche participative avec une attention particulière à l'équité et à la justice"
+        - name: "Approches de recherche participative avec une attention particulière à l'équité et à la justice"
         - name: "Améliorer l'ambiances de milieux de vie (espaces publics, semi-publics, ou privés) et la qualité de produits"
         - name: "Intégrer des perspectives quantitatives et qualitatives"
         - name: "Développer des instruments et des outils de recherche"
         - name: "Identifier, documenter et concilier les perspectives de différents acteurs"
-        - name: "Caractérier des environnements sonores, identifier des enjeux de cohabitation »"
+        - name: "Caractérier des environnements sonores, identifier des enjeux de cohabitation"
     - name: "Ateliers participatifs"
       id: "atelier"
       points:
@@ -281,16 +280,16 @@ services:
     - name: "Mobilisation des connaissances"
       id: "connaissance"
       points:
-        - name: "Dans les politiques publiques"
+        - name: "En politiques publiques"
         - name: "Dans la fabrique de la ville"
         - name: "Dans la création artistique"
-        - name: "Dans l'éducation"
+        - name: "En éducation"
     - name: "Recherche-création"
       id: "creation"
       points:
         - name: "Collaboration de recherche-création avec des artistes sonores"
         - name: "Conception et évaluation d'installations sonores dans des espaces publics/privés"
-        - name: "Animation des espaces publics par le son"
+        - name: "Animation d'espaces publics par le sonore"
     - name: "Sensibilisation au sonore"
       id: "sensibilisation"
       points:
@@ -299,7 +298,7 @@ services:
         - name: "Ateliers participatifs (voir ci-dessus)"
         - name: "Cours d'écologie sonore (pour les professionnels de l'urbanisme et le grand public)"
         - name: "Conception d'environnements de travail favorables à la santé (en intérieur et extérieur)"
-   
+
   slides:
     - title: "Planifier des interventions"
       description: "Exprimer besoins et attentes en lien avec le sonore et les intégrer à vos plans d'action"
@@ -310,7 +309,7 @@ services:
     - title: "Animer l'espace par le sonore"
       description: "Le sonore contribue au caractère animé et dynamique"
       image: "/assets/images/projects/recreation_v_residence/IMG_1848_QdS_CreditsFXFeron.JPG"
-    - title: "Facilier la communication entre parties prenantes"
+    - title: "Faciliter la communication entre parties prenantes"
       description: "Améliorer la cohabitation sonore"
       image: "/assets/images/soundscape principles/7-soundwalk-creditChristineKerrigan.jpg"
     - title: "Ateliers participatifs"
@@ -376,6 +375,7 @@ partners:
         url: "https://www.sshrc-crsh.gc.ca/home-accueil-eng.aspx"
       - name: "Fonds de Recherche du Québec"
         url: "https://frq.gouv.qc.ca/"
+
 contact:
   title: "Contact"
   telephone: "Téléphone"
@@ -392,8 +392,8 @@ contact:
   contact:
     title: "OÙ NOUS TROUVER"
     links:
-      - name: 'Université McGill <br> 3460 rue McTavish, Peterson Hall, local 204 <br>Montréal, QC, Canada<br>H3A 0E6'
-     
+      - name: "Université McGill <br> 3460 rue McTavish, Peterson Hall, local 204 <br>Montréal, QC, Canada<br>H3A 0E6"
+
   address:
     title: "ADRESSE POSTALE"
     location:
