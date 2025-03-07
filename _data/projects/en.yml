@@ -611,6 +611,8 @@
       name: "Trudeau, C., Bild, E., Padois, T., Perna, M., Dumoulin, R., Dupont, T., & Guastavino, C. (2020). Municipal noise regulations in Québec. Proceedings of Forum Acusticum. Forum Acusticum, Dec. 7-1, Lyon, France "
     - url: "project13"
       name: "Bild, E., Fraisse, V., & Guastavino, C. (2023). Integrating sound considerations into the Montreal nightlife policy. Report for the Service de développement économique, Ville de Montréal (61 pages)."
+    - url: "https://doi.org/10.1121/10.0034951"
+      name: "Imani, N., Tarlao, C., & Guastavino, C. (2024). A review of port noise management strategies to improve sonic cohabitation. 187th Meeting of the Acoustical Society of America, 19-21-November 2024 (online). Abstract published in Journal of the Acoustical Society of America, 156(4), A17. "
   prev_url: "project11"
   next_url: "project13"
 
@@ -799,7 +801,7 @@
   before:
     - image: "/assets/images/projects/les_madelinennes/230711_Parc-Madelinots_006.jpg"
       credits: "paysages~"
-      alt: "Parc des Madelinots. A speaker of <i>Les Madelinéennes</i> is in the middle."
+      alt: "Parc des Madelinots : a speaker of <i>Les Madelinéennes</i> is in the middle."
   after:
     - image: "/assets/images/projects/les_madelinennes/230705_Parc-Madelinots_011.jpg"
       credits: "paysages~"
@@ -809,7 +811,7 @@
       alt: "Listening session at the PeRL Laboratory at CIRMMT with sound artist Charles Montambault."
   brief: "A sound installation was deployed to highlight the cultural heritage of a small public space in Montreal.<br><br>A research-creation collaboration seeks to inform the composition of the sound installation, including field recordings and soundscape simulations to in-situ surveys."
   about: "This research-creation collaboration is about the design and evaluation of the permanent public space sound installation <i>Les Madelinéennes</i> by Charles Montambault, deployed since 2023 in a pocket park (Parc-des-Madelinots) in the Montreal borough of Verdun. Verdun was a major emigration destination from the Magdalen Islands (Îles-de-la-Madeleine) and now has the largest community of Madelinots outside of the islands. The Parc-des-Madelinots is a small public space honoring the Madelinots diaspora. However, it is exposed to high levels of traffic noise, sparsely used by residents, and mostly perceived as a transit space. The goal of Les Madelinéennes is to provide a more soothing and pleasant sound environment to this public space while highlighting the community’s cultural heritage through compositions using field recordings from the Magdalen Islands."
-  participation: "This research project builds on the methods developed as per the collaboration surrounding the <a href='project15'>Niches Acoustiques </a>installation. It involves field recordings and laboratory evaluations of prototypes of the sound installation with residents familiar to the space. Specifically, we investigate how the dominance of different coastal sound sources (e.g. birds, water, wind) can affect the public space’s soundscape. Design recommendations will be made from the results of the study to inform the composition of a new iteration of the sound installation."
+  participation: "This research project builds on the methods developed as per the collaboration surrounding the <a href='project15'>Niches Acoustiques </a> installation. It involves field recordings and laboratory evaluations of prototypes of the sound installation with residents familiar to the space. Specifically, we investigate how the dominance of different coastal sound sources (e.g. birds, water, wind) can affect the public space’s soundscape. Design recommendations will be made from the results of the study to inform the composition of a new iteration of the sound installation."
   contact_info: "For details, please contact: Valérian Fraisse, Catherine Guastavino"
   links:
     - url: "https://journalmetro.com/culture/rencontres/2915990/sons-iles-madeleine-berceront-verdun/"
@@ -1264,13 +1266,14 @@
 
 - title: "Sound in and around green spaces"
   description: "Soundscape of Green Spaces Walking Access, A Participatory Mapping Approach"
+  location: "Montreal"
   date: "2023 - ongoing"
   start-date: "2023"
   end-date: "2027"
-  image: "/assets/images/projects/GreenSpaceWalkingAccess/GreenSpaceNoiseNeighbourhood.jpeg"
+  image: "/assets/images/projects/GreenSpaceWalkingAccess/LargeScale.jpeg"
   url: "project25"
-  fundings: ""
-  collaborators: ""
+  fundings: "MITACS, Ville de Montreal, FRQNT-CCTT (Experisens), CIRMMT"
+  collaborators: "Experisens (ITHQ)"
   name: ""
   tags:
     - name: "policy and planning"
@@ -1290,13 +1293,10 @@
     - name: "mapping"
       id: "mapping"
   before:
-    - image: "/assets/images/projects/GreenSpaceWalkingAccess/GreenSpaceNoiseNeighbourhood.jpeg"
-      credits: "Negar Imani"
-      alt: ""
-  after:
     - image: "/assets/images/projects/GreenSpaceWalkingAccess/LargeScale.jpeg"
       credits: "Negar Imani"
       alt: ""
+  after:
     - image: "/assets/images/projects/GreenSpaceWalkingAccess/PinkTree.jpeg"
       credits: "Catherine Guastavino"
       alt: ""
