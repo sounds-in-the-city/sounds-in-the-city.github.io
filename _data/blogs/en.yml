@@ -73,10 +73,11 @@
   posted: "Jan. 7, 2021"
   name: "Mister"
   brief: "Sounds in the city has been tracking the transformation of Montreal soundscapes during the COVID-19 outbreak, through audio recordings and sound level measurements throughout the city. Our research on quieted city sounds during lockdown has been featured several times this past month in the news and on the radio.  Read or listen more about this new research here!"
-  about: 'For more information, check our <a href="../media">media</a> page'
+  about: ""
   contact_info: "For details, please contact: Daniel Steele, Catherine Guastavino"
   prev_url: "blog-4"
   next_url: "blog-6"
+  link: "../projects/project8"
 
 - title: "Radio in the city"
   description: "100 years of history in Montreal"
