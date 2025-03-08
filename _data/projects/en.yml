@@ -702,7 +702,7 @@
     - name: "aging"
       id: "aging"
   before:
-    - image: "/assets/images/projects/Quartier_des_Spectacles/Place_des_arts_08.JPG"
+    - image: "/assets/images/projects/Quartier_des_Spectacles/Place_des_Arts_08.JPG"
       credits: "Jeangagnon at Wikimedia Commons"
       alt: "Quartier des Spectacles"
   after:
